@@ -1,0 +1,1165 @@
+fileFormatVersion: 2
+guid: 1a6c21d478d6eab4097a398db126f2f5
+timeCreated: 1459259403
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: buttons cancel
+    21300002: cards cards
+    21300004: cards clubs
+    21300006: cards diamonds
+    21300008: cards hearts
+    21300010: cards spades
+    21300012: casino 7
+    21300014: casino bell
+    21300016: casino clover
+    21300018: casino horse shoe
+    21300020: casino party on
+    21300022: emoticon glasses
+    21300024: emoticon suspicious
+    21300026: emoticons angry
+    21300028: emoticons big kiss
+    21300030: emoticons bleh
+    21300032: emoticons broken heart
+    21300034: emoticons confused
+    21300036: emoticons crush
+    21300038: emoticons crying out loud
+    21300040: emoticons crying
+    21300042: emoticons dead
+    21300044: emoticons disgust
+    21300046: emoticons drooling
+    21300048: emoticons embarrased
+    21300050: emoticons et
+    21300052: emoticons evil
+    21300054: emoticons eyes blazing
+    21300056: emoticons face palm
+    21300058: emoticons fooling around
+    21300060: emoticons glasses
+    21300062: emoticons good
+    21300064: emoticons happy
+    21300066: emoticons laughing out loud
+    21300068: emoticons little kiss
+    21300070: emoticons money
+    21300072: emoticons pleased
+    21300074: emoticons pretending
+    21300076: emoticons rude
+    21300078: emoticons sad
+    21300080: emoticons shit happened
+    21300082: emoticons shocking
+    21300084: emoticons shy
+    21300086: emoticons silence
+    21300088: emoticons sleeping
+    21300090: emoticons smile blink
+    21300092: emoticons smile
+    21300094: emoticons surprised
+    21300096: emoticons tongue out
+    21300098: emoticons troll
+    21300100: emoticons zipper
+    21300102: misc castle
+    21300104: misc chat
+    21300106: misc game leaderboards1
+    21300108: misc home
+    21300110: misc space rocket
+    21300112: misc users
+    21300114: monetary treasure crown
+    21300116: monetary gold coin
+    21300118: construction door
+    21300120: casino dice
+    21300122: Cards Big
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cards cards
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 959
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: 17}
+        - {x: 29, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -15}
+    - name: cards clubs
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 959
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 32}
+        - {x: -17, y: 32}
+        - {x: -32, y: 18}
+        - {x: -32, y: -25}
+        - {x: -20, y: -32}
+        - {x: 25, y: -32}
+        - {x: 32, y: -24}
+        - {x: 32, y: 18}
+        - {x: 29, y: 28}
+    - name: cards diamonds
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 565
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -31, y: 2}
+        - {x: -31, y: -11}
+        - {x: -14, y: -24}
+        - {x: -3, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -31}
+        - {x: 30, y: -2}
+        - {x: 30, y: 13}
+        - {x: 3, y: 32}
+    - name: cards hearts
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 631
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 31}
+        - {x: -32, y: 19}
+        - {x: -32, y: -11}
+        - {x: -6, y: -31}
+        - {x: 14, y: -31}
+        - {x: 20, y: -26}
+        - {x: 32, y: 2}
+        - {x: 32, y: 29}
+        - {x: 29, y: 31}
+    - name: cards spades
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 959
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 32}
+        - {x: -32, y: 13}
+        - {x: -32, y: -28}
+        - {x: -21, y: -32}
+        - {x: 20, y: -32}
+        - {x: 32, y: -16}
+        - {x: 32, y: 14}
+        - {x: 4, y: 32}
+    - name: casino clover
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 959
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -15, y: 30}
+        - {x: -32, y: 26}
+        - {x: -32, y: -19}
+        - {x: -27, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 26}
+        - {x: 24, y: 32}
+    - name: casino dice
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 629
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 32}
+        - {x: -15, y: 32}
+        - {x: -32, y: 23}
+        - {x: -32, y: -16}
+        - {x: -18, y: -32}
+        - {x: 18, y: -32}
+        - {x: 28, y: -30}
+        - {x: 31, y: -17}
+        - {x: 31, y: 24}
+        - {x: 29, y: 27}
+    - name: casino horse shoe
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 959
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -32, y: 25}
+        - {x: -32, y: -8}
+        - {x: -22, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -27}
+        - {x: 32, y: 28}
+        - {x: 30, y: 32}
+    - name: construction door
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 959
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -23, y: 27}
+        - {x: -23, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -27}
+        - {x: 23, y: -22}
+        - {x: 23, y: 32}
+    - name: emoticon glasses
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 32}
+        - {x: -32, y: 23}
+        - {x: -32, y: -14}
+        - {x: -30, y: -25}
+        - {x: -22, y: -32}
+        - {x: 27, y: -32}
+        - {x: 32, y: -19}
+        - {x: 32, y: 27}
+        - {x: 18, y: 32}
+    - name: emoticon suspicious
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 959
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 32}
+        - {x: -32, y: 25}
+        - {x: -32, y: -28}
+        - {x: -25, y: -32}
+        - {x: 23, y: -32}
+        - {x: 25, y: -31}
+        - {x: 32, y: -28}
+        - {x: 32, y: 32}
+    - name: emoticons angry
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: -28}
+        - {x: -25, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 29}
+        - {x: 23, y: 32}
+    - name: emoticons big kiss
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 32}
+        - {x: -32, y: 24}
+        - {x: -32, y: -23}
+        - {x: -29, y: -32}
+        - {x: 23, y: -32}
+        - {x: 32, y: -24}
+        - {x: 32, y: 20}
+        - {x: 28, y: 32}
+    - name: emoticons bleh
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 32}
+        - {x: -32, y: 23}
+        - {x: -32, y: -19}
+        - {x: -17, y: -32}
+        - {x: 21, y: -32}
+        - {x: 32, y: -21}
+        - {x: 32, y: 20}
+        - {x: 29, y: 32}
+    - name: emoticons broken heart
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 32}
+        - {x: -31, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: -30}
+        - {x: -31, y: -32}
+        - {x: 21, y: -32}
+        - {x: 32, y: -22}
+        - {x: 32, y: 22}
+    - name: emoticons confused
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -17}
+        - {x: -23, y: -32}
+        - {x: 26, y: -32}
+        - {x: 32, y: -19}
+        - {x: 32, y: 28}
+        - {x: 28, y: 32}
+    - name: emoticons crush
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 564
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -31, y: 27}
+        - {x: -31, y: -29}
+        - {x: -18, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -17}
+        - {x: 31, y: 25}
+        - {x: 23, y: 32}
+    - name: emoticons crying out loud
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -32, y: 24}
+        - {x: -32, y: -24}
+        - {x: -30, y: -32}
+        - {x: 17, y: -32}
+        - {x: 32, y: -28}
+        - {x: 32, y: 10}
+        - {x: 21, y: 32}
+    - name: emoticons crying
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 32}
+        - {x: -32, y: 28}
+        - {x: -32, y: -25}
+        - {x: -28, y: -32}
+        - {x: 29, y: -32}
+        - {x: 32, y: -19}
+        - {x: 32, y: 22}
+        - {x: 23, y: 32}
+    - name: emoticons dead
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -32, y: 27}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: emoticons disgust
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 564
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -30, y: 21}
+        - {x: -30, y: -7}
+        - {x: -17, y: -32}
+        - {x: 26, y: -32}
+        - {x: 30, y: -16}
+        - {x: 30, y: 20}
+        - {x: 18, y: 32}
+    - name: emoticons drooling
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 32}
+        - {x: -22, y: 32}
+        - {x: -32, y: 18}
+        - {x: -32, y: -29}
+        - {x: -22, y: -32}
+        - {x: 24, y: -32}
+        - {x: 32, y: -23}
+        - {x: 32, y: 19}
+    - name: emoticons embarrased
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 32}
+        - {x: -32, y: 25}
+        - {x: -32, y: -21}
+        - {x: -17, y: -32}
+        - {x: 19, y: -32}
+        - {x: 32, y: -18}
+        - {x: 32, y: 27}
+        - {x: 21, y: 32}
+    - name: emoticons et
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 32}
+        - {x: -32, y: 20}
+        - {x: -32, y: -24}
+        - {x: -22, y: -32}
+        - {x: 19, y: -32}
+        - {x: 32, y: -21}
+        - {x: 32, y: 29}
+        - {x: 29, y: 32}
+    - name: emoticons evil
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 566
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 32}
+        - {x: -30, y: 24}
+        - {x: -30, y: -16}
+        - {x: -16, y: -32}
+        - {x: 18, y: -32}
+        - {x: 30, y: -13}
+        - {x: 30, y: 11}
+        - {x: 28, y: 32}
+    - name: emoticons eyes blazing
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -32, y: 22}
+        - {x: -32, y: -25}
+        - {x: -27, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: emoticons face palm
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 563
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 32}
+        - {x: -32, y: 28}
+        - {x: -32, y: -17}
+        - {x: -25, y: -32}
+        - {x: 19, y: -32}
+        - {x: 31, y: -16}
+        - {x: 31, y: 27}
+        - {x: 19, y: 32}
+    - name: emoticons fooling around
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 565
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 32}
+        - {x: -31, y: 18}
+        - {x: -31, y: -12}
+        - {x: -23, y: -29}
+        - {x: -10, y: -32}
+        - {x: 27, y: -32}
+        - {x: 31, y: -26}
+        - {x: 31, y: 20}
+        - {x: 25, y: 32}
+    - name: emoticons glasses
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 631
+        width: 64
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 31}
+        - {x: -32, y: 20}
+        - {x: -32, y: -17}
+        - {x: -16, y: -30}
+        - {x: 27, y: -30}
+        - {x: 32, y: -16}
+        - {x: 32, y: 28}
+        - {x: 27, y: 31}
+    - name: emoticons good
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 497
+        width: 57
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 32}
+        - {x: -27, y: 21}
+        - {x: -29, y: 11}
+        - {x: -29, y: -21}
+        - {x: -18, y: -32}
+        - {x: 19, y: -32}
+        - {x: 28, y: -24}
+        - {x: 28, y: 32}
+    - name: emoticons happy
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 32}
+        - {x: -25, y: 31}
+        - {x: -32, y: 20}
+        - {x: -32, y: -28}
+        - {x: -21, y: -32}
+        - {x: 24, y: -32}
+        - {x: 32, y: -19}
+        - {x: 32, y: 19}
+        - {x: 19, y: 32}
+    - name: emoticons laughing out loud
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 32}
+        - {x: -23, y: 31}
+        - {x: -32, y: 14}
+        - {x: -32, y: -22}
+        - {x: -28, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -21}
+        - {x: 32, y: 20}
+        - {x: 14, y: 32}
+    - name: emoticons little kiss
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 630
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -32, y: 18}
+        - {x: -32, y: -25}
+        - {x: -27, y: -31}
+        - {x: 22, y: -31}
+        - {x: 32, y: -20}
+        - {x: 32, y: 12}
+        - {x: 25, y: 32}
+    - name: emoticons money
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 761
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 30}
+        - {x: 30, y: 32}
+    - name: emoticons pleased
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 761
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 32}
+        - {x: -32, y: 14}
+        - {x: -32, y: -20}
+        - {x: -20, y: -32}
+        - {x: 29, y: -32}
+        - {x: 32, y: -21}
+        - {x: 32, y: 30}
+        - {x: 31, y: 32}
+    - name: emoticons pretending
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 630
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -32, y: 19}
+        - {x: -32, y: -26}
+        - {x: -24, y: -31}
+        - {x: 25, y: -31}
+        - {x: 32, y: -25}
+        - {x: 32, y: 9}
+        - {x: 23, y: 32}
+    - name: emoticons rude
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 498
+        width: 61
+        height: 64
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 32}
+        - {x: -24, y: 32}
+        - {x: -30, y: 31}
+        - {x: -30, y: -14}
+        - {x: -17, y: -32}
+        - {x: 23, y: -32}
+        - {x: 29, y: -24}
+        - {x: 29, y: 25}
+    - name: emoticons sad
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 761
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 32}
+        - {x: -22, y: 32}
+        - {x: -32, y: 18}
+        - {x: -32, y: -29}
+        - {x: -22, y: -32}
+        - {x: 24, y: -32}
+        - {x: 32, y: -23}
+        - {x: 32, y: 19}
+    - name: emoticons shit happened
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 761
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -32}
+        - {x: 20, y: -32}
+        - {x: 32, y: -22}
+        - {x: 32, y: 13}
+        - {x: 20, y: 32}
+    - name: emoticons shocking
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 761
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 32}
+        - {x: -32, y: 27}
+        - {x: -32, y: -20}
+        - {x: -27, y: -32}
+        - {x: 29, y: -32}
+        - {x: 32, y: -22}
+        - {x: 32, y: 31}
+        - {x: 30, y: 32}
+    - name: emoticons shy
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 761
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 32}
+        - {x: -22, y: 32}
+        - {x: -32, y: 18}
+        - {x: -32, y: -29}
+        - {x: -22, y: -32}
+        - {x: 24, y: -32}
+        - {x: 32, y: -23}
+        - {x: 32, y: 19}
+    - name: emoticons silence
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 565
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 32}
+        - {x: -30, y: 31}
+        - {x: -30, y: -15}
+        - {x: -13, y: -32}
+        - {x: 26, y: -32}
+        - {x: 28, y: -31}
+        - {x: 31, y: -15}
+        - {x: 31, y: 21}
+        - {x: 26, y: 32}
+    - name: emoticons sleeping
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 632
+        width: 64
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4918033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 31}
+        - {x: -32, y: 21}
+        - {x: -32, y: -19}
+        - {x: -29, y: -30}
+        - {x: 23, y: -30}
+        - {x: 32, y: -8}
+        - {x: 32, y: 26}
+        - {x: 16, y: 31}
+    - name: emoticons smile blink
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 761
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 32}
+        - {x: -17, y: 32}
+        - {x: -31, y: 23}
+        - {x: -32, y: 21}
+        - {x: -32, y: -26}
+        - {x: -23, y: -32}
+        - {x: 29, y: -32}
+        - {x: 32, y: -23}
+        - {x: 32, y: 24}
+    - name: emoticons smile
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 32}
+        - {x: -22, y: 32}
+        - {x: -32, y: 18}
+        - {x: -32, y: -29}
+        - {x: -22, y: -32}
+        - {x: 24, y: -32}
+        - {x: 32, y: -23}
+        - {x: 32, y: 19}
+    - name: emoticons surprised
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 500
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 32}
+        - {x: -15, y: 32}
+        - {x: -31, y: 19}
+        - {x: -31, y: -16}
+        - {x: -26, y: -26}
+        - {x: -22, y: -32}
+        - {x: 30, y: -32}
+        - {x: 31, y: -28}
+        - {x: 31, y: 17}
+        - {x: 21, y: 31}
+    - name: emoticons tongue out
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 497
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32}
+        - {x: -31, y: 20}
+        - {x: -31, y: -19}
+        - {x: -15, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: 20}
+        - {x: 18, y: 32}
+    - name: emoticons troll
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 32}
+        - {x: -17, y: 32}
+        - {x: -32, y: 27}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 25, y: -32}
+        - {x: 32, y: -18}
+        - {x: 32, y: 22}
+    - name: emoticons zipper
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -32, y: 15}
+        - {x: -32, y: -20}
+        - {x: -18, y: -32}
+        - {x: 12, y: -32}
+        - {x: 32, y: -21}
+        - {x: 32, y: 9}
+        - {x: 22, y: 32}
+    - name: misc chat
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -16}
+        - {x: -20, y: -32}
+        - {x: 18, y: -32}
+        - {x: 32, y: -24}
+        - {x: 32, y: 21}
+        - {x: 29, y: 32}
+        - {x: -21, y: 32}
+        - {x: -32, y: 23}
+    - name: misc game leaderboards1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -32, y: 19}
+        - {x: -32, y: -5}
+        - {x: -18, y: -32}
+        - {x: 26, y: -32}
+        - {x: 32, y: -12}
+        - {x: 32, y: 29}
+        - {x: 31, y: 32}
+    - name: misc home
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 499
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -31, y: 10}
+        - {x: -31, y: -8}
+        - {x: -26, y: -19}
+        - {x: -16, y: -32}
+        - {x: 15, y: -32}
+        - {x: 31, y: -25}
+        - {x: 31, y: 12}
+        - {x: 8, y: 32}
+    - name: misc space rocket
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 631
+        width: 64
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 30}
+        - {x: -26, y: 20}
+        - {x: -32, y: 5}
+        - {x: -32, y: -31}
+        - {x: 12, y: -31}
+        - {x: 32, y: -3}
+        - {x: 32, y: 30}
+    - name: monetary gold coin
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 32}
+        - {x: -32, y: 19}
+        - {x: -32, y: -22}
+        - {x: -23, y: -32}
+        - {x: 20, y: -32}
+        - {x: 32, y: -26}
+        - {x: 32, y: 15}
+        - {x: 15, y: 32}
+    - name: monetary treasure crown
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -15}
+        - {x: -27, y: -32}
+        - {x: 29, y: -32}
+        - {x: 32, y: -25}
+        - {x: 32, y: 31}
+        - {x: 29, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

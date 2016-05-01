@@ -1,0 +1,23 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Sprites/Cards/CardSheet.tpsheet
+- Assets/Game/Atlas/Outlined.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Game/Atlas/UIToony.tpsheet
+- Assets/Game/Atlas/UIBase.tpsheet
+- Assets/Game/Atlas/CardSheet.tpsheet
+textureFileNames:
+- Assets/Resources/Sprites/Cards/CardSheet.png
+- Assets/Game/Atlas/Outlined.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Game/Atlas/UIToony.png
+- Assets/Game/Atlas/UIBase.png
+- Assets/Game/Atlas/CardSheet.png
+normalmapFileNames:
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 

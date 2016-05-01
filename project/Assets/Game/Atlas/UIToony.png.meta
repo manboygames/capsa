@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 772b94eb0c38f584cbd1a901bf90f91b
+timeCreated: 1459736992
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIP_Button_02_Blue
+    21300002: UIP_Button_02_Red
+    21300004: UIP_Button_07_Blue
+    21300006: UIP_LevelFrame_01_Yellow
+    21300008: UIP_ScrollbarHandle_01_Blue
+    21300010: UIP_SliderBackground_01_White
+    21300012: UIP_SliderFill_01_Red
+    21300014: UIP_ScrollbarHandle_01_White
+    21300016: UIP_Icon_MusicOff
+    21300018: UIP_Icon_MusicOn
+    21300020: UIP_Icon_SoundOff
+    21300022: UIP_Icon_SoundOn
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UIP_Button_02_Blue
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 313
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44}
+        - {x: -44, y: -44}
+        - {x: 44, y: -44}
+        - {x: 44, y: 39}
+        - {x: 34, y: 44}
+    - name: UIP_Button_02_Red
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44}
+        - {x: -44, y: -44}
+        - {x: 44, y: -44}
+        - {x: 44, y: 39}
+        - {x: 34, y: 44}
+    - name: UIP_Button_07_Blue
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 403
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 54}
+        - {x: -54, y: 46}
+        - {x: -54, y: -40}
+        - {x: -46, y: -54}
+        - {x: 54, y: -54}
+        - {x: 54, y: 54}
+    - name: UIP_Icon_MusicOff
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 254
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50877196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 28}
+        - {x: -30, y: -24}
+        - {x: -28, y: -27}
+        - {x: -14, y: -28}
+        - {x: -6, y: -22}
+        - {x: 15, y: -29}
+        - {x: 30, y: -29}
+        - {x: 30, y: 28}
+    - name: UIP_Icon_MusicOn
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 234
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -27}
+        - {x: 30, y: -24}
+        - {x: 30, y: 28}
+        - {x: -5, y: 28}
+        - {x: -9, y: 27}
+        - {x: -30, y: -6}
+        - {x: -30, y: -25}
+        - {x: -27, y: -27}
+        - {x: -12, y: -27}
+        - {x: -8, y: -24}
+        - {x: -6, y: -21}
+        - {x: 10, y: -27}
+    - name: UIP_Icon_SoundOff
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 251
+        width: 57
+        height: 60
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 30}
+        - {x: -29, y: -21}
+        - {x: -8, y: -30}
+        - {x: 28, y: -30}
+        - {x: 28, y: -2}
+        - {x: 21, y: 30}
+    - name: UIP_Icon_SoundOn
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 55
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 30}
+        - {x: -9, y: 30}
+        - {x: -26, y: 25}
+        - {x: -26, y: -18}
+        - {x: -7, y: -30}
+        - {x: 16, y: -30}
+        - {x: 27, y: -20}
+        - {x: 27, y: 18}
+    - name: UIP_LevelFrame_01_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 60, z: 60, w: 60}
+      outline:
+      - - {x: -43, y: 64}
+        - {x: -64, y: 40}
+        - {x: -64, y: -31}
+        - {x: -60, y: -50}
+        - {x: -50, y: -64}
+        - {x: 51, y: -64}
+        - {x: 64, y: -60}
+        - {x: 64, y: 39}
+        - {x: 46, y: 64}
+    - name: UIP_ScrollbarHandle_01_Blue
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 351
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+    - name: UIP_ScrollbarHandle_01_White
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 329
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+    - name: UIP_SliderBackground_01_White
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 271
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 17, z: 17, w: 17}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 17}
+        - {x: 16, y: 20}
+    - name: UIP_SliderFill_01_Red
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 373
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 13, z: 13, w: 13}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

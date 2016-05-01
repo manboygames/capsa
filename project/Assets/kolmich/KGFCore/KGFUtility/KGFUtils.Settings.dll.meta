@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bb3a6506e4f66f343bc0548ea6d60d74
+labels:
+- kgf
+- KGFCore
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7033 @@
+fileFormatVersion: 2
+guid: c71ea4cef6d549b48927947df8fe1d86
+timeCreated: 1459273057
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_boxCheckmark
+    21300002: blue_boxCross
+    21300004: blue_boxTick
+    21300006: blue_button00
+    21300008: blue_button01
+    21300010: blue_button02
+    21300012: blue_button03
+    21300014: blue_button04
+    21300016: blue_button05
+    21300018: blue_button06
+    21300020: blue_button07
+    21300022: blue_button08
+    21300024: blue_button09
+    21300026: blue_button10
+    21300028: blue_button11
+    21300030: blue_button12
+    21300032: blue_button13
+    21300034: blue_checkmark
+    21300036: blue_circle
+    21300038: blue_cross
+    21300040: blue_panel
+    21300042: blue_sliderDown
+    21300044: blue_sliderLeft
+    21300046: blue_sliderRight
+    21300048: blue_sliderUp
+    21300050: blue_tick
+    21300052: dropdownBottom
+    21300054: dropdownMid
+    21300056: dropdownTop
+    21300058: green_boxCheckmark
+    21300060: green_boxCross
+    21300062: green_boxTick
+    21300064: green_button00
+    21300066: green_button01
+    21300068: green_button02
+    21300070: green_button03
+    21300072: green_button04
+    21300074: green_button05
+    21300076: green_button06
+    21300078: green_button07
+    21300080: green_button08
+    21300082: green_button09
+    21300084: green_button10
+    21300086: green_button11
+    21300088: green_button12
+    21300090: green_button13
+    21300092: green_checkmark
+    21300094: green_circle
+    21300096: green_cross
+    21300098: green_panel
+    21300100: green_sliderDown
+    21300102: green_sliderLeft
+    21300104: green_sliderRight
+    21300106: green_sliderUp
+    21300108: green_tick
+    21300110: grey_arrowDownGrey
+    21300112: grey_arrowDownWhite
+    21300114: grey_arrowUpGrey
+    21300116: grey_arrowUpWhite
+    21300118: grey_box
+    21300120: grey_boxCheckmark
+    21300122: grey_boxCross
+    21300124: grey_boxTick
+    21300126: grey_button00
+    21300128: grey_button01
+    21300130: grey_button02
+    21300132: grey_button03
+    21300134: grey_button04
+    21300136: grey_button05
+    21300138: grey_button06
+    21300140: grey_button07
+    21300142: grey_button08
+    21300144: grey_button09
+    21300146: grey_button10
+    21300148: grey_button11
+    21300150: grey_button12
+    21300152: grey_button13
+    21300154: grey_button14
+    21300156: grey_button15
+    21300158: grey_checkmarkGrey
+    21300160: grey_checkmarkWhite
+    21300162: grey_circle
+    21300164: grey_crossGrey
+    21300166: grey_crossWhite
+    21300168: grey_panel
+    21300170: grey_sliderDown
+    21300172: grey_sliderEnd
+    21300174: grey_sliderHorizontal
+    21300176: grey_sliderLeft
+    21300178: grey_sliderRight
+    21300180: grey_sliderUp
+    21300182: grey_sliderVertical
+    21300184: grey_tickGrey
+    21300186: grey_tickWhite
+    21300188: red_boxCheckmark
+    21300190: red_boxCross
+    21300192: red_boxTick
+    21300194: red_button00
+    21300196: red_button01
+    21300198: red_button02
+    21300200: red_button03
+    21300202: red_button04
+    21300204: red_button05
+    21300206: red_button06
+    21300208: red_button07
+    21300210: red_button08
+    21300212: red_button09
+    21300214: red_button10
+    21300216: red_button11
+    21300218: red_button12
+    21300220: red_button13
+    21300222: red_checkmark
+    21300224: red_circle
+    21300226: red_cross
+    21300228: red_panel
+    21300230: red_sliderDown
+    21300232: red_sliderLeft
+    21300234: red_sliderRight
+    21300236: red_sliderUp
+    21300238: red_tick
+    21300240: yellow_boxCheckmark
+    21300242: yellow_boxCross
+    21300244: yellow_boxTick
+    21300246: yellow_button00
+    21300248: yellow_button01
+    21300250: yellow_button02
+    21300252: yellow_button03
+    21300254: yellow_button04
+    21300256: yellow_button05
+    21300258: yellow_button06
+    21300260: yellow_button07
+    21300262: yellow_button08
+    21300264: yellow_button09
+    21300266: yellow_button10
+    21300268: yellow_button11
+    21300270: yellow_button12
+    21300272: yellow_button13
+    21300274: yellow_checkmark
+    21300276: yellow_circle
+    21300278: yellow_cross
+    21300280: yellow_panel
+    21300282: yellow_sliderDown
+    21300284: yellow_sliderLeft
+    21300286: yellow_sliderRight
+    21300288: yellow_sliderUp
+    21300290: yellow_tick
+    21300292: Black-arrowDown
+    21300294: Black-arrowLeft
+    21300296: Black-arrowRight
+    21300298: Black-arrowUp
+    21300300: Black-audioOff
+    21300302: Black-audioOn
+    21300304: Black-barsHorizontal
+    21300306: Black-barsVertical
+    21300308: Black-button1
+    21300310: Black-button2
+    21300312: Black-button3
+    21300314: Black-buttonA
+    21300316: Black-buttonB
+    21300318: Black-buttonL
+    21300320: Black-buttonL1
+    21300322: Black-buttonL2
+    21300324: Black-buttonR
+    21300326: Black-buttonR1
+    21300328: Black-buttonR2
+    21300330: Black-buttonSelect
+    21300332: Black-buttonStart
+    21300334: Black-buttonX
+    21300336: Black-buttonY
+    21300338: Black-checkmark
+    21300340: Black-contrast
+    21300342: Black-cross
+    21300344: Black-down
+    21300346: Black-downLeft
+    21300348: Black-downRight
+    21300350: Black-exclamation
+    21300352: Black-exit
+    21300354: Black-exitLeft
+    21300356: Black-exitRight
+    21300358: Black-export
+    21300360: Black-fastForward
+    21300362: Black-gamepad
+    21300364: Black-gamepad1
+    21300366: Black-gamepad2
+    21300368: Black-gamepad3
+    21300370: Black-gamepad4
+    21300372: Black-gear
+    21300374: Black-home
+    21300376: Black-import
+    21300378: Black-information
+    21300380: Black-joystick
+    21300382: Black-joystickLeft
+    21300384: Black-joystickRight
+    21300386: Black-joystickUp
+    21300388: Black-larger
+    21300390: Black-leaderboardsComplex
+    21300392: Black-leaderboardsSimple
+    21300394: Black-left
+    21300396: Black-locked
+    21300398: Black-massiveMultiplayer
+    21300400: Black-medal1
+    21300402: Black-medal2
+    21300404: Black-menuGrid
+    21300406: Black-menuList
+    21300408: Black-minus
+    21300410: Black-mouse
+    21300412: Black-movie
+    21300414: Black-multiplayer
+    21300416: Black-musicOff
+    21300418: Black-musicOn
+    21300420: Black-next
+    21300422: Black-open
+    21300424: Black-pause
+    21300426: Black-phone
+    21300428: Black-plus
+    21300430: Black-power
+    21300432: Black-previous
+    21300434: Black-question
+    21300436: Black-return
+    21300438: Black-rewind
+    21300440: Black-right
+    21300442: Black-save
+    21300444: Black-scrollHorizontal
+    21300446: Black-scrollVertical
+    21300448: Black-share1
+    21300450: Black-share2
+    21300452: Black-shoppingBasket
+    21300454: Black-shoppingCart
+    21300456: Black-siganl1
+    21300458: Black-signal2
+    21300460: Black-signal3
+    21300462: Black-singleplayer
+    21300464: Black-smaller
+    21300466: Black-star
+    21300468: Black-stop
+    21300470: Black-tablet
+    21300472: Black-target
+    21300474: Black-trashcan
+    21300476: Black-trashcanOpen
+    21300478: Black-trophy
+    21300480: Black-unlocked
+    21300482: Black-up
+    21300484: Black-upLeft
+    21300486: Black-upRight
+    21300488: Black-video
+    21300490: Black-warning
+    21300492: Black-wrench
+    21300494: Black-zoom
+    21300496: Black-zoomDefault
+    21300498: Black-zoomIn
+    21300500: Black-zoomOut
+    21300502: White-arrowDown
+    21300504: White-arrowLeft
+    21300506: White-arrowRight
+    21300508: White-arrowUp
+    21300510: White-audioOff
+    21300512: White-audioOn
+    21300514: White-barsHorizontal
+    21300516: White-barsVertical
+    21300518: White-button1
+    21300520: White-button2
+    21300522: White-button3
+    21300524: White-buttonA
+    21300526: White-buttonB
+    21300528: White-buttonL
+    21300530: White-buttonL1
+    21300532: White-buttonL2
+    21300534: White-buttonR
+    21300536: White-buttonR1
+    21300538: White-buttonR2
+    21300540: White-buttonSelect
+    21300542: White-buttonStart
+    21300544: White-buttonX
+    21300546: White-buttonY
+    21300548: White-checkmark
+    21300550: White-contrast
+    21300552: White-cross
+    21300554: White-down
+    21300556: White-downLeft
+    21300558: White-downRight
+    21300560: White-exclamation
+    21300562: White-exit
+    21300564: White-exitLeft
+    21300566: White-exitRight
+    21300568: White-export
+    21300570: White-fastForward
+    21300572: White-gamepad
+    21300574: White-gamepad1
+    21300576: White-gamepad2
+    21300578: White-gamepad3
+    21300580: White-gamepad4
+    21300582: White-gear
+    21300584: White-home
+    21300586: White-import
+    21300588: White-information
+    21300590: White-joystick
+    21300592: White-joystickLeft
+    21300594: White-joystickRight
+    21300596: White-joystickUp
+    21300598: White-larger
+    21300600: White-leaderboardsComplex
+    21300602: White-leaderboardsSimple
+    21300604: White-left
+    21300606: White-locked
+    21300608: White-massiveMultiplayer
+    21300610: White-medal1
+    21300612: White-medal2
+    21300614: White-menuGrid
+    21300616: White-menuList
+    21300618: White-minus
+    21300620: White-mouse
+    21300622: White-movie
+    21300624: White-multiplayer
+    21300626: White-musicOff
+    21300628: White-musicOn
+    21300630: White-next
+    21300632: White-open
+    21300634: White-pause
+    21300636: White-phone
+    21300638: White-plus
+    21300640: White-power
+    21300642: White-previous
+    21300644: White-question
+    21300646: White-return
+    21300648: White-rewind
+    21300650: White-right
+    21300652: White-save
+    21300654: White-scrollHorizontal
+    21300656: White-scrollVertical
+    21300658: White-share1
+    21300660: White-share2
+    21300662: White-shoppingBasket
+    21300664: White-shoppingCart
+    21300666: White-siganl1
+    21300668: White-signal2
+    21300670: White-signal3
+    21300672: White-singleplayer
+    21300674: White-smaller
+    21300676: White-star
+    21300678: White-stop
+    21300680: White-tablet
+    21300682: White-target
+    21300684: White-trashcan
+    21300686: White-trashcanOpen
+    21300688: White-trophy
+    21300690: White-unlocked
+    21300692: White-up
+    21300694: White-upLeft
+    21300696: White-upRight
+    21300698: White-video
+    21300700: White-warning
+    21300702: White-wrench
+    21300704: White-zoom
+    21300706: White-zoomDefault
+    21300708: White-zoomIn
+    21300710: White-zoomOut
+    21300712: SymbolFemale
+    21300714: SymbolMale
+    21300716: Black-shuffle
+    21300718: White-shuffle
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Black-arrowDown
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 644
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -29, y: 11}
+        - {x: -29, y: -8}
+        - {x: -2, y: -35}
+        - {x: 3, y: -35}
+        - {x: 29, y: -15}
+        - {x: 29, y: 7}
+        - {x: 17, y: 35}
+    - name: Black-arrowLeft
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1042
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 29}
+        - {x: -35, y: 7}
+        - {x: -35, y: -2}
+        - {x: -8, y: -29}
+        - {x: 3, y: -29}
+        - {x: 35, y: -13}
+        - {x: 35, y: 16}
+        - {x: 16, y: 29}
+    - name: Black-arrowRight
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 982
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 29}
+        - {x: -35, y: 13}
+        - {x: -35, y: -16}
+        - {x: -11, y: -29}
+        - {x: 8, y: -29}
+        - {x: 35, y: -2}
+        - {x: 35, y: 2}
+        - {x: 8, y: 29}
+    - name: Black-arrowUp
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 572
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 35}
+        - {x: -29, y: 9}
+        - {x: -29, y: -16}
+        - {x: -14, y: -35}
+        - {x: 16, y: -35}
+        - {x: 29, y: -11}
+        - {x: 29, y: 8}
+        - {x: 4, y: 35}
+    - name: Black-audioOff
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1340
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.78571427, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 31}
+        - {x: -33, y: 9}
+        - {x: -33, y: -20}
+        - {x: -5, y: -36}
+        - {x: 9, y: -36}
+        - {x: 9, y: 31}
+    - name: Black-audioOn
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 735
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 31}
+        - {x: -33, y: 9}
+        - {x: -33, y: -20}
+        - {x: -5, y: -36}
+        - {x: 10, y: -36}
+        - {x: 10, y: 31}
+      - - {x: 20, y: 18}
+        - {x: 15, y: 10}
+        - {x: 15, y: -17}
+        - {x: 20, y: -24}
+        - {x: 24, y: -24}
+        - {x: 33, y: -18}
+        - {x: 33, y: 11}
+        - {x: 26, y: 18}
+    - name: Black-barsHorizontal
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1070
+        width: 74
+        height: 66
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -12}
+        - {x: -33, y: -14}
+        - {x: -33, y: -30}
+        - {x: -32, y: -31}
+        - {x: 40, y: -31}
+        - {x: 41, y: -30}
+        - {x: 41, y: -14}
+        - {x: 39, y: -12}
+      - - {x: -31, y: 12}
+        - {x: -33, y: 10}
+        - {x: -33, y: -6}
+        - {x: -31, y: -8}
+        - {x: 39, y: -8}
+        - {x: 41, y: -6}
+        - {x: 41, y: 10}
+        - {x: 39, y: 12}
+      - - {x: -33, y: 35}
+        - {x: -33, y: 16}
+        - {x: 41, y: 16}
+        - {x: 41, y: 35}
+    - name: Black-barsVertical
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 833
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 35}
+        - {x: -33, y: 34}
+        - {x: -33, y: -30}
+        - {x: -32, y: -31}
+        - {x: -16, y: -31}
+        - {x: -14, y: -29}
+        - {x: -14, y: 33}
+        - {x: -16, y: 35}
+      - - {x: -10, y: 35}
+        - {x: -10, y: -31}
+        - {x: 10, y: -31}
+        - {x: 10, y: 35}
+      - - {x: 14, y: 35}
+        - {x: 14, y: -31}
+        - {x: 33, y: -31}
+        - {x: 33, y: 34}
+        - {x: 32, y: 35}
+    - name: Black-button1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 785
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+    - name: Black-button2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 739
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+    - name: Black-button3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 702
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 33}
+        - {x: -31, y: 19}
+        - {x: -31, y: -21}
+        - {x: -23, y: -33}
+        - {x: 19, y: -33}
+        - {x: 35, y: -25}
+        - {x: 35, y: 20}
+        - {x: 28, y: 33}
+    - name: Black-buttonA
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 662
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+      - - {x: 1, y: 8}
+        - {x: -2, y: 7}
+        - {x: -4, y: -2}
+        - {x: -2, y: -4}
+        - {x: 6, y: -4}
+        - {x: 8, y: -3}
+        - {x: 8, y: 0}
+        - {x: 5, y: 8}
+    - name: Black-buttonB
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 598
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+      - - {x: -3, y: 9}
+        - {x: -3, y: 1}
+        - {x: -1, y: -1}
+        - {x: 6, y: -1}
+        - {x: 9, y: 2}
+        - {x: 9, y: 9}
+    - name: Black-buttonL
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1119
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 23}
+        - {x: -40, y: 20}
+        - {x: -40, y: -27}
+        - {x: 39, y: -27}
+        - {x: 39, y: 23}
+    - name: Black-buttonL1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1119
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 23}
+        - {x: -40, y: 20}
+        - {x: -40, y: -27}
+        - {x: 39, y: -27}
+        - {x: 39, y: 23}
+    - name: Black-buttonL2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1067
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 23}
+        - {x: -40, y: 20}
+        - {x: -40, y: -27}
+        - {x: 39, y: -27}
+        - {x: 39, y: 23}
+    - name: Black-buttonR
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1067
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 23}
+        - {x: -39, y: -27}
+        - {x: 40, y: -27}
+        - {x: 40, y: 18}
+        - {x: 37, y: 23}
+    - name: Black-buttonR1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1061
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 23}
+        - {x: -39, y: -27}
+        - {x: 40, y: -27}
+        - {x: 40, y: 18}
+        - {x: 37, y: 23}
+    - name: Black-buttonR2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1061
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 23}
+        - {x: -39, y: -27}
+        - {x: 40, y: -27}
+        - {x: 40, y: 18}
+        - {x: 37, y: 23}
+    - name: Black-buttonSelect
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1588
+        width: 88
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 23}
+        - {x: -43, y: -27}
+        - {x: 45, y: -27}
+        - {x: 45, y: 23}
+    - name: Black-buttonStart
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1536
+        width: 88
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 23}
+        - {x: -43, y: -27}
+        - {x: 45, y: -27}
+        - {x: 45, y: 23}
+    - name: Black-buttonX
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 588
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+    - name: Black-buttonY
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 528
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+    - name: Black-checkmark
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 239
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5254237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 28}
+        - {x: -33, y: 11}
+        - {x: -33, y: -4}
+        - {x: -14, y: -31}
+        - {x: 7, y: -31}
+        - {x: 14, y: -29}
+        - {x: 33, y: 7}
+        - {x: 33, y: 25}
+        - {x: 30, y: 28}
+    - name: Black-contrast
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 725
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32}
+        - {x: -22, y: 32}
+        - {x: -35, y: 18}
+        - {x: -35, y: -20}
+        - {x: -23, y: -35}
+        - {x: 17, y: -35}
+        - {x: 31, y: -19}
+        - {x: 31, y: 23}
+    - name: Black-cross
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 504
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 31}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 31}
+    - name: Black-down
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 569
+        width: 66
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 21}
+        - {x: -31, y: 9}
+        - {x: -5, y: -21}
+        - {x: 5, y: -21}
+        - {x: 35, y: 5}
+        - {x: 35, y: 21}
+    - name: Black-downLeft
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 470
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 27}
+        - {x: 7, y: 27}
+        - {x: -24, y: 19}
+        - {x: -27, y: 13}
+        - {x: -27, y: -31}
+        - {x: 19, y: -31}
+        - {x: 25, y: -29}
+        - {x: 31, y: -6}
+        - {x: 31, y: 20}
+    - name: Black-downRight
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 467
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 27}
+        - {x: -27, y: 16}
+        - {x: -27, y: 3}
+        - {x: -20, y: -27}
+        - {x: -14, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: 21}
+        - {x: 16, y: 27}
+    - name: Black-exclamation
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1105
+        width: 18
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5645161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Black-exit
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 929
+        width: 52
+        height: 68
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -8, y: -37}
+        - {x: 27, y: -37}
+        - {x: 27, y: 31}
+        - {x: 11, y: 31}
+        - {x: -5, y: 29}
+      - - {x: -24, y: 31}
+        - {x: -25, y: 30}
+        - {x: -25, y: -34}
+        - {x: -23, y: -36}
+        - {x: -10, y: -36}
+        - {x: -8, y: -34}
+        - {x: -8, y: 31}
+    - name: Black-exitLeft
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 807
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: 4, y: 24}
+        - {x: 4, y: 16}
+        - {x: 6, y: 14}
+        - {x: 4, y: -3}
+        - {x: 4, y: -33}
+        - {x: 31, y: -33}
+        - {x: 31, y: 24}
+        - {x: 30, y: 25}
+      - - {x: -12, y: 20}
+        - {x: -33, y: -1}
+        - {x: -33, y: -7}
+        - {x: -12, y: -28}
+        - {x: 4, y: -28}
+        - {x: 18, y: -16}
+        - {x: 18, y: 9}
+        - {x: 4, y: 20}
+    - name: Black-exitRight
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 543
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.421875, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 25}
+        - {x: -27, y: -33}
+        - {x: 0, y: -33}
+        - {x: 0, y: 25}
+      - - {x: 0, y: 20}
+        - {x: -14, y: 8}
+        - {x: -14, y: -17}
+        - {x: 0, y: -28}
+        - {x: 16, y: -28}
+        - {x: 37, y: -7}
+        - {x: 37, y: -1}
+        - {x: 16, y: 20}
+    - name: Black-export
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 520
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 0}
+      - - {x: -6, y: 31}
+        - {x: -18, y: 23}
+        - {x: -18, y: -6}
+        - {x: -16, y: -12}
+        - {x: 11, y: -12}
+        - {x: 18, y: -4}
+        - {x: 18, y: 15}
+        - {x: 7, y: 31}
+    - name: Black-fastForward
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 947
+        width: 78
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 31}
+        - {x: -2, y: 29}
+        - {x: -18, y: 31}
+        - {x: -36, y: 31}
+        - {x: -37, y: 30}
+        - {x: -37, y: -35}
+        - {x: 15, y: -35}
+        - {x: 41, y: -4}
+        - {x: 41, y: 5}
+        - {x: 10, y: 31}
+    - name: Black-gamepad
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1288
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48214287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 29}
+        - {x: -41, y: 15}
+        - {x: -41, y: -27}
+        - {x: 41, y: -27}
+        - {x: 41, y: 17}
+        - {x: 16, y: 29}
+    - name: Black-gamepad1
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1346
+        width: 82
+        height: 76
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -6}
+        - {x: 26, y: -41}
+        - {x: 43, y: -41}
+        - {x: 43, y: -6}
+      - - {x: 19, y: 34}
+        - {x: 12, y: 35}
+        - {x: -18, y: 35}
+        - {x: -39, y: 17}
+        - {x: -39, y: -2}
+        - {x: -32, y: -18}
+        - {x: -23, y: -18}
+        - {x: 34, y: -3}
+        - {x: 34, y: 12}
+        - {x: 28, y: 35}
+    - name: Black-gamepad2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1210
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -6}
+        - {x: 18, y: -41}
+        - {x: 41, y: -41}
+        - {x: 41, y: -6}
+      - - {x: 19, y: 34}
+        - {x: 12, y: 35}
+        - {x: -18, y: 35}
+        - {x: -39, y: 17}
+        - {x: -39, y: -2}
+        - {x: -32, y: -18}
+        - {x: -23, y: -18}
+        - {x: 34, y: -3}
+        - {x: 34, y: 12}
+        - {x: 28, y: 35}
+    - name: Black-gamepad3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1216
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -6}
+        - {x: 18, y: -41}
+        - {x: 41, y: -41}
+        - {x: 41, y: -7}
+        - {x: 40, y: -6}
+      - - {x: 19, y: 34}
+        - {x: 12, y: 35}
+        - {x: -18, y: 35}
+        - {x: -39, y: 17}
+        - {x: -39, y: -2}
+        - {x: -32, y: -18}
+        - {x: -23, y: -18}
+        - {x: 34, y: -3}
+        - {x: 34, y: 12}
+        - {x: 28, y: 35}
+    - name: Black-gamepad4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1132
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -6}
+        - {x: 18, y: -32}
+        - {x: 28, y: -41}
+        - {x: 41, y: -41}
+        - {x: 41, y: -7}
+        - {x: 40, y: -6}
+      - - {x: 19, y: 34}
+        - {x: 12, y: 35}
+        - {x: -18, y: 35}
+        - {x: -39, y: 17}
+        - {x: -39, y: -2}
+        - {x: -32, y: -18}
+        - {x: -23, y: -18}
+        - {x: 34, y: -3}
+        - {x: 34, y: 12}
+        - {x: 28, y: 35}
+    - name: Black-gear
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 460
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 31}
+        - {x: -31, y: 16}
+        - {x: -31, y: -25}
+        - {x: -15, y: -35}
+        - {x: 30, y: -35}
+        - {x: 35, y: -20}
+        - {x: 35, y: 26}
+        - {x: 28, y: 31}
+      - - {x: -2, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -6}
+        - {x: -2, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 2}
+        - {x: 6, y: 8}
+    - name: Black-home
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 436
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 33}
+        - {x: -31, y: 4}
+        - {x: -31, y: -33}
+        - {x: 35, y: -33}
+        - {x: 35, y: 3}
+        - {x: 10, y: 33}
+    - name: Black-import
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 803
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 0}
+      - - {x: 11, y: 31}
+        - {x: -11, y: 31}
+        - {x: -18, y: 19}
+        - {x: -18, y: 5}
+        - {x: -1, y: -12}
+        - {x: 1, y: -12}
+        - {x: 18, y: 5}
+        - {x: 18, y: 18}
+    - name: Black-information
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 527
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 10}
+        - {x: -17, y: 10}
+        - {x: -17, y: -5}
+        - {x: -16, y: -6}
+        - {x: -17, y: -9}
+        - {x: -17, y: -37}
+        - {x: 21, y: -37}
+        - {x: 21, y: -7}
+        - {x: 19, y: 9}
+      - - {x: 9, y: 33}
+        - {x: -5, y: 33}
+        - {x: -10, y: 29}
+        - {x: -10, y: 16}
+        - {x: -6, y: 10}
+        - {x: 7, y: 10}
+        - {x: 14, y: 11}
+        - {x: 14, y: 28}
+    - name: Black-joystick
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 803
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 14}
+        - {x: 28, y: 31}
+        - {x: -28, y: 31}
+        - {x: -33, y: 19}
+    - name: Black-joystickLeft
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 451
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 33}
+        - {x: -29, y: 33}
+        - {x: -29, y: -39}
+        - {x: 33, y: -39}
+        - {x: 33, y: -12}
+        - {x: 32, y: -4}
+    - name: Black-joystickRight
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 461
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 33}
+        - {x: -29, y: 4}
+        - {x: -29, y: -39}
+        - {x: 33, y: -39}
+        - {x: 33, y: 33}
+    - name: Black-joystickUp
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 447
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -39}
+        - {x: 33, y: -39}
+        - {x: 33, y: -2}
+        - {x: 26, y: 25}
+        - {x: 18, y: 33}
+        - {x: -21, y: 33}
+        - {x: -29, y: 31}
+    - name: Black-larger
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 665
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -36}
+        - {x: -4, y: -8}
+        - {x: -31, y: -8}
+        - {x: -31, y: -36}
+      - - {x: 8, y: -8}
+        - {x: 8, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -8}
+      - - {x: -31, y: 31}
+        - {x: -31, y: 3}
+        - {x: -4, y: 3}
+        - {x: -4, y: 31}
+      - - {x: 8, y: 31}
+        - {x: 8, y: 3}
+        - {x: 35, y: 3}
+        - {x: 35, y: 31}
+    - name: Black-leaderboardsComplex
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 970
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 23}
+        - {x: 16, y: 25}
+        - {x: -18, y: 25}
+        - {x: -33, y: 5}
+        - {x: -33, y: -33}
+        - {x: 37, y: -33}
+        - {x: 37, y: -2}
+        - {x: 35, y: 0}
+    - name: Black-leaderboardsSimple
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1012
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 15}
+        - {x: -39, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -7}
+        - {x: 26, y: 15}
+    - name: Black-left
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1210
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 33}
+        - {x: -21, y: 3}
+        - {x: -21, y: -7}
+        - {x: 9, y: -33}
+        - {x: 21, y: -33}
+        - {x: 21, y: 33}
+    - name: Black-locked
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 765
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 31}
+        - {x: -31, y: 17}
+        - {x: -31, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 13}
+        - {x: 28, y: 31}
+    - name: Black-massiveMultiplayer
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1424
+        width: 84
+        height: 58
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 25}
+        - {x: -41, y: -22}
+        - {x: -26, y: -33}
+        - {x: 22, y: -33}
+        - {x: 43, y: -26}
+        - {x: 43, y: 11}
+        - {x: 37, y: 25}
+    - name: Black-medal1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 641
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 0.46, y: 0.55714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 31}
+        - {x: -23, y: -15}
+        - {x: -10, y: -39}
+        - {x: 16, y: -39}
+        - {x: 27, y: -21}
+        - {x: 27, y: 31}
+    - name: Black-medal2
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 865
+        width: 63
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 14}
+        - {x: 20, y: 31}
+        - {x: -22, y: 31}
+        - {x: -30, y: 12}
+        - {x: -30, y: -38}
+        - {x: 23, y: -38}
+        - {x: 33, y: -34}
+        - {x: 33, y: -3}
+    - name: Black-menuGrid
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 717
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -12}
+        - {x: -33, y: -14}
+        - {x: -33, y: -30}
+        - {x: -32, y: -31}
+        - {x: -16, y: -31}
+        - {x: -14, y: -29}
+        - {x: -14, y: -15}
+        - {x: -17, y: -12}
+      - - {x: -7, y: -12}
+        - {x: -10, y: -15}
+        - {x: -10, y: -29}
+        - {x: -8, y: -31}
+        - {x: 10, y: -31}
+        - {x: 10, y: -13}
+        - {x: 7, y: -12}
+      - - {x: 15, y: -12}
+        - {x: 14, y: -15}
+        - {x: 14, y: -31}
+        - {x: 33, y: -31}
+        - {x: 33, y: -14}
+        - {x: 31, y: -12}
+      - - {x: -17, y: 12}
+        - {x: -33, y: 12}
+        - {x: -33, y: -6}
+        - {x: -31, y: -8}
+        - {x: -17, y: -8}
+        - {x: -14, y: -5}
+        - {x: -14, y: 11}
+      - - {x: -8, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -5}
+        - {x: -7, y: -8}
+        - {x: 10, y: -8}
+        - {x: 10, y: 12}
+      - - {x: 14, y: 12}
+        - {x: 14, y: -6}
+        - {x: 15, y: -8}
+        - {x: 31, y: -8}
+        - {x: 33, y: -6}
+        - {x: 33, y: 12}
+      - - {x: -32, y: 35}
+        - {x: -33, y: 34}
+        - {x: -33, y: 16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 19}
+        - {x: -14, y: 33}
+        - {x: -16, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -10, y: 33}
+        - {x: -10, y: 17}
+        - {x: -8, y: 16}
+        - {x: 10, y: 16}
+        - {x: 10, y: 35}
+      - - {x: 14, y: 35}
+        - {x: 14, y: 16}
+        - {x: 33, y: 16}
+        - {x: 33, y: 34}
+        - {x: 32, y: 35}
+    - name: Black-menuList
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 671
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -12}
+        - {x: -33, y: -14}
+        - {x: -33, y: -30}
+        - {x: -32, y: -31}
+        - {x: -16, y: -31}
+        - {x: -14, y: -29}
+        - {x: -14, y: -15}
+        - {x: -17, y: -12}
+      - - {x: -10, y: -12}
+        - {x: -10, y: -29}
+        - {x: -8, y: -31}
+        - {x: 32, y: -31}
+        - {x: 33, y: -30}
+        - {x: 33, y: -12}
+      - - {x: -17, y: 12}
+        - {x: -33, y: 12}
+        - {x: -33, y: -6}
+        - {x: -31, y: -8}
+        - {x: -17, y: -8}
+        - {x: -14, y: -5}
+        - {x: -14, y: 11}
+      - - {x: -7, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -5}
+        - {x: -7, y: -8}
+        - {x: 31, y: -8}
+        - {x: 33, y: -6}
+        - {x: 33, y: 10}
+        - {x: 31, y: 12}
+      - - {x: -32, y: 35}
+        - {x: -33, y: 34}
+        - {x: -33, y: 16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 19}
+        - {x: -14, y: 33}
+        - {x: -16, y: 35}
+      - - {x: -9, y: 35}
+        - {x: -10, y: 34}
+        - {x: -10, y: 16}
+        - {x: 33, y: 16}
+        - {x: 33, y: 34}
+        - {x: 32, y: 35}
+    - name: Black-minus
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 603
+        width: 66
+        height: 18
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Black-mouse
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 790
+        width: 58
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 33}
+        - {x: -27, y: 31}
+        - {x: -27, y: -27}
+        - {x: -16, y: -39}
+        - {x: 19, y: -39}
+        - {x: 31, y: -35}
+        - {x: 31, y: 33}
+      - - {x: -3, y: 22}
+        - {x: -6, y: 20}
+        - {x: -6, y: -8}
+        - {x: -4, y: -10}
+        - {x: 5, y: -10}
+        - {x: 10, y: -9}
+        - {x: 10, y: 22}
+    - name: Black-movie
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 634
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 31}
+        - {x: -33, y: 30}
+        - {x: -33, y: -34}
+        - {x: -32, y: -35}
+        - {x: 32, y: -35}
+        - {x: 33, y: -34}
+        - {x: 33, y: 30}
+        - {x: 32, y: 31}
+    - name: Black-multiplayer
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 72
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4861111, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 23}
+        - {x: -35, y: 13}
+        - {x: -35, y: -25}
+        - {x: -34, y: -27}
+        - {x: 32, y: -27}
+        - {x: 37, y: -21}
+        - {x: 37, y: -4}
+        - {x: 28, y: 23}
+    - name: Black-musicOff
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 358
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 29}
+        - {x: -29, y: 29}
+        - {x: -29, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: -5}
+        - {x: 29, y: 27}
+    - name: Black-musicOn
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341
+        width: 57
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 29}
+        - {x: -29, y: -1}
+        - {x: -29, y: -35}
+        - {x: 9, y: -35}
+        - {x: 28, y: -28}
+        - {x: 28, y: 29}
+    - name: Black-next
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 31}
+        - {x: 10, y: 29}
+        - {x: -8, y: 31}
+        - {x: -28, y: 31}
+        - {x: -29, y: 30}
+        - {x: -29, y: -35}
+        - {x: 29, y: -35}
+        - {x: 29, y: 30}
+        - {x: 28, y: 31}
+    - name: Black-open
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 594
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -31, y: 13}
+        - {x: -31, y: -35}
+        - {x: 4, y: -35}
+        - {x: 35, y: -4}
+        - {x: 35, y: 0}
+        - {x: 4, y: 31}
+    - name: Black-pause
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 134
+        width: 58
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47761193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 35}
+        - {x: -29, y: 33}
+        - {x: -29, y: -30}
+        - {x: -27, y: -32}
+        - {x: -5, y: -32}
+        - {x: -2, y: -29}
+        - {x: -2, y: 33}
+        - {x: -4, y: 35}
+      - - {x: 2, y: 35}
+        - {x: 2, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: 35}
+    - name: Black-phone
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 48
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 35}
+        - {x: -25, y: -36}
+        - {x: 23, y: -36}
+        - {x: 23, y: 35}
+    - name: Black-plus
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 530
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 6}
+        - {x: -31, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 17}
+        - {x: 27, y: 31}
+        - {x: -6, y: 31}
+    - name: Black-power
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 888
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.55714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 24}
+        - {x: 11, y: 16}
+        - {x: -8, y: 24}
+        - {x: -20, y: 24}
+        - {x: -30, y: 18}
+        - {x: -33, y: 13}
+        - {x: -33, y: -26}
+        - {x: -21, y: -39}
+        - {x: 30, y: -39}
+        - {x: 37, y: -36}
+        - {x: 37, y: 21}
+        - {x: 28, y: 24}
+      - - {x: -6, y: 31}
+        - {x: -6, y: -10}
+        - {x: 10, y: -10}
+        - {x: 10, y: 31}
+    - name: Black-previous
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 252
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 31}
+        - {x: -29, y: 31}
+        - {x: -29, y: -35}
+        - {x: -12, y: -35}
+        - {x: -10, y: -33}
+        - {x: 8, y: -35}
+        - {x: 29, y: -35}
+    - name: Black-question
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1203
+        width: 42
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -16}
+        - {x: -10, y: -20}
+        - {x: -10, y: -37}
+        - {x: 12, y: -37}
+        - {x: 12, y: -21}
+        - {x: 7, y: -16}
+      - - {x: -17, y: 29}
+        - {x: -20, y: 28}
+        - {x: -21, y: 24}
+        - {x: -21, y: -5}
+        - {x: -14, y: -16}
+        - {x: 19, y: -16}
+        - {x: 21, y: -8}
+        - {x: 21, y: 29}
+    - name: Black-return
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 527
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 25}
+        - {x: -29, y: -24}
+        - {x: -22, y: -27}
+        - {x: 3, y: -11}
+        - {x: 9, y: -5}
+        - {x: 9, y: -2}
+        - {x: 6, y: 2}
+        - {x: 15, y: -2}
+        - {x: 1, y: -15}
+        - {x: 1, y: -23}
+        - {x: 2, y: -33}
+        - {x: 32, y: -33}
+        - {x: 35, y: -32}
+        - {x: 35, y: 21}
+        - {x: 33, y: 25}
+    - name: Black-rewind
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 947
+        width: 78
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 31}
+        - {x: -37, y: 6}
+        - {x: -37, y: -8}
+        - {x: -23, y: -35}
+        - {x: 41, y: -35}
+        - {x: 41, y: 31}
+    - name: Black-right
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1142
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 33}
+        - {x: -21, y: 32}
+        - {x: -21, y: -33}
+        - {x: -4, y: -33}
+        - {x: 21, y: -3}
+        - {x: 21, y: 7}
+        - {x: -10, y: 33}
+    - name: Black-save
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 735
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 31}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 16}
+        - {x: 18, y: 31}
+      - - {x: 4, y: 20}
+        - {x: 2, y: 18}
+        - {x: 2, y: 10}
+        - {x: 4, y: 8}
+        - {x: 12, y: 8}
+        - {x: 14, y: 10}
+        - {x: 14, y: 18}
+        - {x: 12, y: 20}
+    - name: Black-scrollHorizontal
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 252
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 29}
+        - {x: -31, y: 11}
+        - {x: -31, y: -1}
+        - {x: -6, y: -26}
+        - {x: -2, y: -26}
+        - {x: 0, y: -24}
+        - {x: 0, y: 29}
+      - - {x: 1, y: 29}
+        - {x: 0, y: 28}
+        - {x: 0, y: -26}
+        - {x: 8, y: -26}
+        - {x: 31, y: -1}
+        - {x: 31, y: 5}
+        - {x: 7, y: 29}
+    - name: Black-scrollVertical
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 864
+        width: 54
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 33}
+        - {x: -27, y: 17}
+        - {x: -27, y: -7}
+        - {x: -6, y: -30}
+        - {x: 3, y: -30}
+        - {x: 27, y: -11}
+        - {x: 27, y: 12}
+        - {x: 9, y: 33}
+    - name: Black-share1
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 998
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 27}
+        - {x: -8, y: 26}
+        - {x: -8, y: 22}
+        - {x: -27, y: 18}
+        - {x: -29, y: 16}
+        - {x: -29, y: -32}
+        - {x: -28, y: -33}
+        - {x: 25, y: -33}
+        - {x: 31, y: -25}
+        - {x: 31, y: 27}
+    - name: Black-share2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1005
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 35}
+        - {x: -32, y: 28}
+        - {x: -35, y: 19}
+        - {x: -35, y: -17}
+        - {x: -2, y: -39}
+        - {x: 35, y: -39}
+        - {x: 35, y: -7}
+        - {x: 34, y: -4}
+        - {x: 35, y: -2}
+        - {x: 35, y: 35}
+    - name: Black-shoppingBasket
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 328
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 0}
+        - {x: -29, y: -20}
+        - {x: -26, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 0}
+      - - {x: -11, y: 29}
+        - {x: -28, y: 12}
+        - {x: -28, y: 1}
+        - {x: -24, y: 0}
+        - {x: -11, y: 0}
+        - {x: 2, y: 13}
+        - {x: 2, y: 27}
+        - {x: 1, y: 29}
+      - - {x: 5, y: 29}
+        - {x: 2, y: 26}
+        - {x: 2, y: 18}
+        - {x: 16, y: 0}
+        - {x: 28, y: 0}
+        - {x: 32, y: 1}
+        - {x: 32, y: 12}
+        - {x: 15, y: 29}
+    - name: Black-shoppingCart
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 839
+        width: 68
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -18}
+        - {x: -18, y: -21}
+        - {x: -18, y: -34}
+        - {x: -14, y: -37}
+        - {x: 1, y: -37}
+        - {x: 2, y: -35}
+        - {x: 2, y: -19}
+        - {x: -2, y: -18}
+      - - {x: 14, y: -18}
+        - {x: 10, y: -21}
+        - {x: 10, y: -32}
+        - {x: 11, y: -37}
+        - {x: 28, y: -37}
+        - {x: 30, y: -36}
+        - {x: 30, y: -22}
+        - {x: 25, y: -18}
+      - - {x: -33, y: 25}
+        - {x: -33, y: 6}
+        - {x: -25, y: -17}
+        - {x: -24, y: -18}
+        - {x: 35, y: -18}
+        - {x: 35, y: 25}
+    - name: Black-shuffle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1644
+        width: 450
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5, y: 0.460199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137, y: -1}
+        - {x: -20, y: -1}
+        - {x: -41, y: -13}
+        - {x: -41, y: -119}
+        - {x: 12, y: -142}
+        - {x: 100, y: -185}
+        - {x: 143, y: -185}
+        - {x: 225, y: -118}
+        - {x: 225, y: -90}
+        - {x: 141, y: -4}
+      - - {x: 225, y: 122}
+        - {x: 225, y: 134}
+        - {x: 144, y: 217}
+        - {x: 128, y: 217}
+        - {x: 125, y: 216}
+        - {x: -13, y: 163}
+        - {x: -125, y: -42}
+        - {x: -220, y: -61}
+        - {x: -225, y: -64}
+        - {x: -225, y: -130}
+        - {x: -104, y: -130}
+        - {x: -15, y: -104}
+        - {x: 66, y: 93}
+        - {x: 129, y: 38}
+        - {x: 141, y: 36}
+      - - {x: -225, y: 162}
+        - {x: -225, y: 90}
+        - {x: -98, y: 33}
+        - {x: -87, y: 33}
+        - {x: -55, y: 67}
+        - {x: -55, y: 126}
+        - {x: -93, y: 162}
+    - name: Black-siganl1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1069
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 1.8333334, y: 1.0294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Black-signal2
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 698
+        width: 42
+        height: 50
+      alignment: 9
+      pivot: {x: 0.78571427, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: -33, y: -35}
+        - {x: -15, y: -35}
+        - {x: -14, y: -33}
+        - {x: -14, y: 0}
+      - - {x: -10, y: 15}
+        - {x: -10, y: -33}
+        - {x: -8, y: -35}
+        - {x: 9, y: -35}
+        - {x: 9, y: 15}
+    - name: Black-signal3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 735
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: -33, y: -35}
+        - {x: -15, y: -35}
+        - {x: -14, y: -33}
+        - {x: -14, y: 0}
+      - - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: -33}
+        - {x: -8, y: -35}
+        - {x: 10, y: -35}
+        - {x: 10, y: 16}
+      - - {x: 14, y: 31}
+        - {x: 14, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 30}
+        - {x: 32, y: 31}
+    - name: Black-singleplayer
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -35}
+        - {x: 24, y: -35}
+        - {x: 29, y: -33}
+        - {x: 29, y: -2}
+        - {x: 14, y: 31}
+        - {x: -14, y: 31}
+        - {x: -29, y: 1}
+    - name: Black-smaller
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 656
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -8}
+        - {x: -31, y: -36}
+        - {x: -4, y: -36}
+        - {x: -4, y: -10}
+        - {x: -6, y: -8}
+      - - {x: 8, y: -8}
+        - {x: 8, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -8}
+      - - {x: -31, y: 31}
+        - {x: -31, y: 3}
+        - {x: -4, y: 3}
+        - {x: -4, y: 31}
+      - - {x: 8, y: 31}
+        - {x: 8, y: 3}
+        - {x: 35, y: 3}
+        - {x: 35, y: 31}
+    - name: Black-star
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 320
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 31}
+        - {x: -7, y: 31}
+        - {x: -33, y: 9}
+        - {x: -33, y: 2}
+        - {x: -23, y: -31}
+        - {x: 23, y: -31}
+        - {x: 33, y: -4}
+        - {x: 33, y: 14}
+    - name: Black-stop
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 320
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5322581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 29}
+        - {x: -31, y: 28}
+        - {x: -31, y: -32}
+        - {x: -30, y: -33}
+        - {x: 30, y: -33}
+        - {x: 31, y: -32}
+        - {x: 31, y: 28}
+        - {x: 30, y: 29}
+    - name: Black-tablet
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1005
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 35}
+        - {x: -29, y: -36}
+        - {x: 27, y: -36}
+        - {x: 27, y: 35}
+    - name: Black-target
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 596
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -31, y: 28}
+        - {x: -31, y: -19}
+        - {x: -17, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 32}
+      - - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -8, y: -15}
+        - {x: 12, y: -15}
+        - {x: 16, y: -11}
+        - {x: 16, y: 6}
+        - {x: 13, y: 12}
+    - name: Black-trashcan
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1060
+        width: 50
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 7}
+        - {x: -25, y: -38}
+        - {x: -23, y: -40}
+        - {x: 25, y: -40}
+        - {x: 25, y: 8}
+        - {x: -24, y: 8}
+      - - {x: -22, y: 33}
+        - {x: -25, y: 31}
+        - {x: -25, y: 8}
+        - {x: 25, y: 8}
+        - {x: 25, y: 33}
+    - name: Black-trashcanOpen
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 865
+        width: 53
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5283019, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 6}
+        - {x: -26, y: -37}
+        - {x: -23, y: -40}
+        - {x: 25, y: -40}
+        - {x: 25, y: 8}
+        - {x: -24, y: 8}
+      - - {x: -18, y: 40}
+        - {x: -28, y: 27}
+        - {x: -28, y: 8}
+        - {x: -3, y: 8}
+        - {x: 25, y: 19}
+        - {x: 25, y: 30}
+        - {x: 22, y: 40}
+    - name: Black-trophy
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 613
+        width: 66
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 23}
+        - {x: -33, y: 20}
+        - {x: -33, y: -19}
+        - {x: -26, y: -35}
+        - {x: 25, y: -35}
+        - {x: 26, y: -34}
+        - {x: 33, y: -25}
+        - {x: 33, y: 23}
+    - name: Black-unlocked
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 808
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.525641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 37}
+        - {x: -31, y: 17}
+        - {x: -31, y: -41}
+        - {x: 35, y: -41}
+        - {x: 35, y: 37}
+    - name: Black-up
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 568
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -33, y: -10}
+        - {x: -33, y: -20}
+        - {x: -32, y: -21}
+        - {x: 33, y: -21}
+        - {x: 33, y: -4}
+        - {x: 3, y: 21}
+    - name: Black-upLeft
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 441
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -31}
+        - {x: 23, y: -31}
+        - {x: 31, y: -19}
+        - {x: 31, y: 1}
+        - {x: 20, y: 27}
+        - {x: -27, y: 27}
+        - {x: -27, y: -27}
+    - name: Black-upRight
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 423
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 27}
+        - {x: -14, y: 27}
+        - {x: -17, y: 23}
+        - {x: -17, y: 18}
+        - {x: -27, y: 0}
+        - {x: -27, y: -19}
+        - {x: -20, y: -31}
+        - {x: -6, y: -31}
+        - {x: 6, y: -21}
+        - {x: 26, y: -22}
+        - {x: 31, y: -18}
+    - name: Black-video
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 804
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.4861111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 37}
+        - {x: 11, y: 37}
+        - {x: -33, y: 27}
+        - {x: -35, y: 24}
+        - {x: -35, y: -35}
+        - {x: 31, y: -35}
+        - {x: 31, y: 26}
+        - {x: 30, y: 32}
+    - name: Black-warning
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 903
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 29}
+        - {x: -9, y: 28}
+        - {x: -33, y: -15}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -15}
+        - {x: 8, y: 29}
+    - name: Black-wrench
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 697
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 31}
+        - {x: -31, y: 30}
+        - {x: -31, y: -7}
+        - {x: -8, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -5}
+        - {x: 8, y: 31}
+    - name: Black-zoom
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 940
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -24}
+        - {x: -7, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -6}
+        - {x: 20, y: 31}
+        - {x: -31, y: 31}
+    - name: Black-zoomDefault
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 940
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -24}
+        - {x: -7, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -6}
+        - {x: 20, y: 31}
+        - {x: -31, y: 31}
+      - - {x: -15, y: 14}
+        - {x: -16, y: 12}
+        - {x: -16, y: -3}
+        - {x: -14, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: 14}
+    - name: Black-zoomIn
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 901
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -24}
+        - {x: -7, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -6}
+        - {x: 20, y: 31}
+        - {x: -31, y: 31}
+      - - {x: -16, y: -5}
+        - {x: 2, y: -5}
+        - {x: 4, y: -4}
+        - {x: 4, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 10}
+    - name: Black-zoomOut
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 853
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -24}
+        - {x: -7, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -6}
+        - {x: 20, y: 31}
+        - {x: -31, y: 31}
+      - - {x: -14, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: 1}
+        - {x: -14, y: -1}
+        - {x: 2, y: -1}
+        - {x: 4, y: 1}
+        - {x: 4, y: 10}
+        - {x: 2, y: 12}
+    - name: SymbolFemale
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1409
+        width: 43
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.50877196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 28}
+        - {x: -21, y: -21}
+        - {x: -10, y: -29}
+        - {x: 9, y: -29}
+        - {x: 22, y: -8}
+        - {x: 22, y: 25}
+        - {x: 13, y: 28}
+    - name: SymbolMale
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 818
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 23}
+        - {x: -15, y: 13}
+        - {x: -23, y: 4}
+        - {x: -23, y: -14}
+        - {x: -22, y: -17}
+        - {x: -13, y: -23}
+        - {x: 13, y: -23}
+        - {x: 23, y: -11}
+        - {x: 23, y: 23}
+    - name: White-arrowDown
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 182
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -29, y: 11}
+        - {x: -29, y: -8}
+        - {x: -2, y: -35}
+        - {x: 3, y: -35}
+        - {x: 29, y: -15}
+        - {x: 29, y: 7}
+        - {x: 17, y: 35}
+    - name: White-arrowLeft
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 969
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 29}
+        - {x: -35, y: 7}
+        - {x: -35, y: -2}
+        - {x: -8, y: -29}
+        - {x: 3, y: -29}
+        - {x: 35, y: -13}
+        - {x: 35, y: 16}
+        - {x: 16, y: 29}
+    - name: White-arrowRight
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 922
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 29}
+        - {x: -35, y: 13}
+        - {x: -35, y: -16}
+        - {x: -11, y: -29}
+        - {x: 8, y: -29}
+        - {x: 35, y: -2}
+        - {x: 35, y: 2}
+        - {x: 8, y: 29}
+    - name: White-arrowUp
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 167
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 35}
+        - {x: -29, y: 9}
+        - {x: -29, y: -16}
+        - {x: -14, y: -35}
+        - {x: 16, y: -35}
+        - {x: 29, y: -11}
+        - {x: 29, y: 8}
+        - {x: 4, y: 35}
+    - name: White-audioOff
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1271
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.78571427, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 31}
+        - {x: -33, y: 9}
+        - {x: -33, y: -20}
+        - {x: -5, y: -36}
+        - {x: 9, y: -36}
+        - {x: 9, y: 31}
+    - name: White-audioOn
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 770
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 31}
+        - {x: -33, y: 9}
+        - {x: -33, y: -20}
+        - {x: -5, y: -36}
+        - {x: 10, y: -36}
+        - {x: 10, y: 31}
+      - - {x: 20, y: 18}
+        - {x: 15, y: 10}
+        - {x: 15, y: -17}
+        - {x: 20, y: -24}
+        - {x: 24, y: -24}
+        - {x: 33, y: -18}
+        - {x: 33, y: 11}
+        - {x: 26, y: 18}
+    - name: White-barsHorizontal
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1064
+        width: 74
+        height: 66
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -12}
+        - {x: -33, y: -14}
+        - {x: -33, y: -30}
+        - {x: -32, y: -31}
+        - {x: 40, y: -31}
+        - {x: 41, y: -30}
+        - {x: 41, y: -14}
+        - {x: 39, y: -12}
+      - - {x: -31, y: 12}
+        - {x: -33, y: 10}
+        - {x: -33, y: -6}
+        - {x: -31, y: -8}
+        - {x: 39, y: -8}
+        - {x: 41, y: -6}
+        - {x: 41, y: 10}
+        - {x: 39, y: 12}
+      - - {x: -33, y: 35}
+        - {x: -33, y: 16}
+        - {x: 41, y: 16}
+        - {x: 41, y: 35}
+    - name: White-barsVertical
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 649
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 35}
+        - {x: -33, y: 34}
+        - {x: -33, y: -30}
+        - {x: -32, y: -31}
+        - {x: -16, y: -31}
+        - {x: -14, y: -29}
+        - {x: -14, y: 33}
+        - {x: -16, y: 35}
+      - - {x: -10, y: 35}
+        - {x: -10, y: -31}
+        - {x: 10, y: -31}
+        - {x: 10, y: 35}
+      - - {x: 14, y: 35}
+        - {x: 14, y: -31}
+        - {x: 33, y: -31}
+        - {x: 33, y: 34}
+        - {x: 32, y: 35}
+    - name: White-button1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 603
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+    - name: White-button2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 566
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+    - name: White-button3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 526
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 33}
+        - {x: -31, y: 19}
+        - {x: -31, y: -21}
+        - {x: -23, y: -33}
+        - {x: 19, y: -33}
+        - {x: 35, y: -25}
+        - {x: 35, y: 20}
+        - {x: 28, y: 33}
+    - name: White-buttonA
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 462
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+      - - {x: 1, y: 8}
+        - {x: -2, y: 7}
+        - {x: -4, y: -2}
+        - {x: -2, y: -4}
+        - {x: 6, y: -4}
+        - {x: 8, y: -3}
+        - {x: 8, y: 0}
+        - {x: 5, y: 8}
+    - name: White-buttonB
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 452
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+      - - {x: -3, y: 9}
+        - {x: -3, y: 1}
+        - {x: -1, y: -1}
+        - {x: 6, y: -1}
+        - {x: 9, y: 2}
+        - {x: 9, y: 9}
+    - name: White-buttonL
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1015
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 23}
+        - {x: -40, y: 20}
+        - {x: -40, y: -27}
+        - {x: 39, y: -27}
+        - {x: 39, y: 23}
+    - name: White-buttonL1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1015
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 23}
+        - {x: -40, y: 20}
+        - {x: -40, y: -27}
+        - {x: 39, y: -27}
+        - {x: 39, y: 23}
+    - name: White-buttonL2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1102
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 23}
+        - {x: -40, y: 20}
+        - {x: -40, y: -27}
+        - {x: 39, y: -27}
+        - {x: 39, y: 23}
+    - name: White-buttonR
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1102
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 23}
+        - {x: -39, y: -27}
+        - {x: 40, y: -27}
+        - {x: 40, y: 18}
+        - {x: 37, y: 23}
+    - name: White-buttonR1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1009
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 23}
+        - {x: -39, y: -27}
+        - {x: 40, y: -27}
+        - {x: 40, y: 18}
+        - {x: 37, y: 23}
+    - name: White-buttonR2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1009
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 23}
+        - {x: -39, y: -27}
+        - {x: 40, y: -27}
+        - {x: 40, y: 18}
+        - {x: 37, y: 23}
+    - name: White-buttonSelect
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1484
+        width: 88
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 23}
+        - {x: -43, y: -27}
+        - {x: 45, y: -27}
+        - {x: 45, y: 23}
+    - name: White-buttonStart
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1490
+        width: 88
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 23}
+        - {x: -43, y: -27}
+        - {x: 45, y: -27}
+        - {x: 45, y: 23}
+    - name: White-buttonX
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 392
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+    - name: White-buttonY
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 384
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33}
+        - {x: -31, y: 28}
+        - {x: -31, y: -16}
+        - {x: -27, y: -29}
+        - {x: -16, y: -33}
+        - {x: 24, y: -33}
+        - {x: 35, y: -20}
+        - {x: 35, y: 18}
+        - {x: 28, y: 33}
+    - name: White-checkmark
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 612
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5254237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 28}
+        - {x: -33, y: 11}
+        - {x: -33, y: -4}
+        - {x: -14, y: -31}
+        - {x: 7, y: -31}
+        - {x: 14, y: -29}
+        - {x: 33, y: 7}
+        - {x: 33, y: 25}
+        - {x: 30, y: 28}
+    - name: White-contrast
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 730
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32}
+        - {x: -22, y: 32}
+        - {x: -35, y: 18}
+        - {x: -35, y: -20}
+        - {x: -23, y: -35}
+        - {x: 17, y: -35}
+        - {x: 31, y: -19}
+        - {x: 31, y: 23}
+    - name: White-cross
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 368
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 31}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 31}
+    - name: White-down
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 623
+        width: 66
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 21}
+        - {x: -31, y: 9}
+        - {x: -5, y: -21}
+        - {x: 5, y: -21}
+        - {x: 35, y: 5}
+        - {x: 35, y: 21}
+    - name: White-downLeft
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 407
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 27}
+        - {x: 7, y: 27}
+        - {x: -24, y: 19}
+        - {x: -27, y: 13}
+        - {x: -27, y: -31}
+        - {x: 19, y: -31}
+        - {x: 25, y: -29}
+        - {x: 31, y: -6}
+        - {x: 31, y: 20}
+    - name: White-downRight
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 381
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 27}
+        - {x: -27, y: 16}
+        - {x: -27, y: 3}
+        - {x: -20, y: -27}
+        - {x: -14, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: 21}
+        - {x: 16, y: 27}
+    - name: White-exclamation
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1041
+        width: 18
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5645161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: White-exit
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 713
+        width: 52
+        height: 68
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -8, y: -37}
+        - {x: 27, y: -37}
+        - {x: 27, y: 31}
+        - {x: 11, y: 31}
+        - {x: -5, y: 29}
+      - - {x: -24, y: 31}
+        - {x: -25, y: 30}
+        - {x: -25, y: -34}
+        - {x: -23, y: -36}
+        - {x: -10, y: -36}
+        - {x: -8, y: -34}
+        - {x: -8, y: 31}
+    - name: White-exitLeft
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 525
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: 4, y: 24}
+        - {x: 4, y: 16}
+        - {x: 6, y: 14}
+        - {x: 4, y: -3}
+        - {x: 4, y: -33}
+        - {x: 31, y: -33}
+        - {x: 31, y: 24}
+        - {x: 30, y: 25}
+      - - {x: -12, y: 20}
+        - {x: -33, y: -1}
+        - {x: -33, y: -7}
+        - {x: -12, y: -28}
+        - {x: 4, y: -28}
+        - {x: 18, y: -16}
+        - {x: 18, y: 9}
+        - {x: 4, y: 20}
+    - name: White-exitRight
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 483
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.421875, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 25}
+        - {x: -27, y: -33}
+        - {x: 0, y: -33}
+        - {x: 0, y: 25}
+      - - {x: 0, y: 20}
+        - {x: -14, y: 8}
+        - {x: -14, y: -17}
+        - {x: 0, y: -28}
+        - {x: 16, y: -28}
+        - {x: 37, y: -7}
+        - {x: 37, y: -1}
+        - {x: 16, y: 20}
+    - name: White-export
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 324
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 0}
+      - - {x: -6, y: 31}
+        - {x: -18, y: 23}
+        - {x: -18, y: -6}
+        - {x: -16, y: -12}
+        - {x: 11, y: -12}
+        - {x: 18, y: -4}
+        - {x: 18, y: 15}
+        - {x: 7, y: 31}
+    - name: White-fastForward
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1081
+        width: 78
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 31}
+        - {x: -2, y: 29}
+        - {x: -18, y: 31}
+        - {x: -36, y: 31}
+        - {x: -37, y: 30}
+        - {x: -37, y: -35}
+        - {x: 15, y: -35}
+        - {x: 41, y: -4}
+        - {x: 41, y: 5}
+        - {x: 10, y: 31}
+    - name: White-gamepad
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1294
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48214287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 29}
+        - {x: -41, y: 15}
+        - {x: -41, y: -27}
+        - {x: 41, y: -27}
+        - {x: 41, y: 17}
+        - {x: 16, y: 29}
+    - name: White-gamepad1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1352
+        width: 82
+        height: 76
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -6}
+        - {x: 26, y: -41}
+        - {x: 43, y: -41}
+        - {x: 43, y: -6}
+      - - {x: 19, y: 34}
+        - {x: 12, y: 35}
+        - {x: -18, y: 35}
+        - {x: -39, y: 17}
+        - {x: -39, y: -2}
+        - {x: -32, y: -18}
+        - {x: -23, y: -18}
+        - {x: 34, y: -3}
+        - {x: 34, y: 12}
+        - {x: 28, y: 35}
+    - name: White-gamepad2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1138
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -6}
+        - {x: 18, y: -41}
+        - {x: 41, y: -41}
+        - {x: 41, y: -6}
+      - - {x: 19, y: 34}
+        - {x: 12, y: 35}
+        - {x: -18, y: 35}
+        - {x: -39, y: 17}
+        - {x: -39, y: -2}
+        - {x: -32, y: -18}
+        - {x: -23, y: -18}
+        - {x: 34, y: -3}
+        - {x: 34, y: 12}
+        - {x: 28, y: 35}
+    - name: White-gamepad3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1113
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -6}
+        - {x: 18, y: -41}
+        - {x: 41, y: -41}
+        - {x: 41, y: -7}
+        - {x: 40, y: -6}
+      - - {x: 19, y: 34}
+        - {x: 12, y: 35}
+        - {x: -18, y: 35}
+        - {x: -39, y: 17}
+        - {x: -39, y: -2}
+        - {x: -32, y: -18}
+        - {x: -23, y: -18}
+        - {x: 34, y: -3}
+        - {x: 34, y: 12}
+        - {x: 28, y: 35}
+    - name: White-gamepad4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1113
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -6}
+        - {x: 18, y: -32}
+        - {x: 28, y: -41}
+        - {x: 41, y: -41}
+        - {x: 41, y: -7}
+        - {x: 40, y: -6}
+      - - {x: 19, y: 34}
+        - {x: 12, y: 35}
+        - {x: -18, y: 35}
+        - {x: -39, y: 17}
+        - {x: -39, y: -2}
+        - {x: -32, y: -18}
+        - {x: -23, y: -18}
+        - {x: 34, y: -3}
+        - {x: 34, y: 12}
+        - {x: 28, y: 35}
+    - name: White-gear
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 300
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 31}
+        - {x: -31, y: 16}
+        - {x: -31, y: -25}
+        - {x: -15, y: -35}
+        - {x: 30, y: -35}
+        - {x: 35, y: -20}
+        - {x: 35, y: 26}
+        - {x: 28, y: 31}
+      - - {x: -2, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -6}
+        - {x: -2, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 2}
+        - {x: 6, y: 8}
+    - name: White-home
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 741
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 33}
+        - {x: -31, y: 4}
+        - {x: -31, y: -33}
+        - {x: 35, y: -33}
+        - {x: 35, y: 3}
+        - {x: 10, y: 33}
+    - name: White-import
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 741
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 0}
+      - - {x: 11, y: 31}
+        - {x: -11, y: 31}
+        - {x: -18, y: 19}
+        - {x: -18, y: 5}
+        - {x: -1, y: -12}
+        - {x: 1, y: -12}
+        - {x: 18, y: 5}
+        - {x: 18, y: 18}
+    - name: White-information
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 778
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 10}
+        - {x: -17, y: 10}
+        - {x: -17, y: -5}
+        - {x: -16, y: -6}
+        - {x: -17, y: -9}
+        - {x: -17, y: -37}
+        - {x: 21, y: -37}
+        - {x: 21, y: -7}
+        - {x: 19, y: 9}
+      - - {x: 9, y: 33}
+        - {x: -5, y: 33}
+        - {x: -10, y: 29}
+        - {x: -10, y: 16}
+        - {x: -6, y: 10}
+        - {x: 7, y: 10}
+        - {x: 14, y: 11}
+        - {x: 14, y: 28}
+    - name: White-joystick
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 673
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 14}
+        - {x: 28, y: 31}
+        - {x: -28, y: 31}
+        - {x: -33, y: 19}
+    - name: White-joystickLeft
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 424
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 33}
+        - {x: -29, y: 33}
+        - {x: -29, y: -39}
+        - {x: 33, y: -39}
+        - {x: 33, y: -12}
+        - {x: 32, y: -4}
+    - name: White-joystickRight
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 387
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 33}
+        - {x: -29, y: 4}
+        - {x: -29, y: -39}
+        - {x: 33, y: -39}
+        - {x: 33, y: 33}
+    - name: White-joystickUp
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -39}
+        - {x: 33, y: -39}
+        - {x: 33, y: -2}
+        - {x: 26, y: 25}
+        - {x: 18, y: 33}
+        - {x: -21, y: 33}
+        - {x: -29, y: 31}
+    - name: White-larger
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 666
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -36}
+        - {x: -4, y: -8}
+        - {x: -31, y: -8}
+        - {x: -31, y: -36}
+      - - {x: 8, y: -8}
+        - {x: 8, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -8}
+      - - {x: -31, y: 31}
+        - {x: -31, y: 3}
+        - {x: -4, y: 3}
+        - {x: -4, y: 31}
+      - - {x: 8, y: 31}
+        - {x: 8, y: 3}
+        - {x: 35, y: 3}
+        - {x: 35, y: 31}
+    - name: White-leaderboardsComplex
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 945
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 23}
+        - {x: 16, y: 25}
+        - {x: -18, y: 25}
+        - {x: -33, y: 5}
+        - {x: -33, y: -33}
+        - {x: 37, y: -33}
+        - {x: 37, y: -2}
+        - {x: 35, y: 0}
+    - name: White-leaderboardsSimple
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1018
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 15}
+        - {x: -39, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -7}
+        - {x: 26, y: 15}
+    - name: White-left
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1074
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 33}
+        - {x: -21, y: 3}
+        - {x: -21, y: -7}
+        - {x: 9, y: -33}
+        - {x: 21, y: -33}
+        - {x: 21, y: 33}
+    - name: White-locked
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 673
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 31}
+        - {x: -31, y: 17}
+        - {x: -31, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 13}
+        - {x: 28, y: 31}
+    - name: White-massiveMultiplayer
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1430
+        width: 84
+        height: 58
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 25}
+        - {x: -41, y: -22}
+        - {x: -26, y: -33}
+        - {x: 22, y: -33}
+        - {x: 43, y: -26}
+        - {x: 43, y: 11}
+        - {x: 37, y: 25}
+    - name: White-medal1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 569
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 0.46, y: 0.55714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 31}
+        - {x: -23, y: -15}
+        - {x: -10, y: -39}
+        - {x: 16, y: -39}
+        - {x: 27, y: -21}
+        - {x: 27, y: 31}
+    - name: White-medal2
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 794
+        width: 63
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 14}
+        - {x: 20, y: 31}
+        - {x: -22, y: 31}
+        - {x: -30, y: 12}
+        - {x: -30, y: -38}
+        - {x: 23, y: -38}
+        - {x: 33, y: -34}
+        - {x: 33, y: -3}
+    - name: White-menuGrid
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 667
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -12}
+        - {x: -33, y: -14}
+        - {x: -33, y: -30}
+        - {x: -32, y: -31}
+        - {x: -16, y: -31}
+        - {x: -14, y: -29}
+        - {x: -14, y: -15}
+        - {x: -17, y: -12}
+      - - {x: -7, y: -12}
+        - {x: -10, y: -15}
+        - {x: -10, y: -29}
+        - {x: -8, y: -31}
+        - {x: 10, y: -31}
+        - {x: 10, y: -13}
+        - {x: 7, y: -12}
+      - - {x: 15, y: -12}
+        - {x: 14, y: -15}
+        - {x: 14, y: -31}
+        - {x: 33, y: -31}
+        - {x: 33, y: -14}
+        - {x: 31, y: -12}
+      - - {x: -17, y: 12}
+        - {x: -33, y: 12}
+        - {x: -33, y: -6}
+        - {x: -31, y: -8}
+        - {x: -17, y: -8}
+        - {x: -14, y: -5}
+        - {x: -14, y: 11}
+      - - {x: -8, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -5}
+        - {x: -7, y: -8}
+        - {x: 10, y: -8}
+        - {x: 10, y: 12}
+      - - {x: 14, y: 12}
+        - {x: 14, y: -6}
+        - {x: 15, y: -8}
+        - {x: 31, y: -8}
+        - {x: 33, y: -6}
+        - {x: 33, y: 12}
+      - - {x: -32, y: 35}
+        - {x: -33, y: 34}
+        - {x: -33, y: 16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 19}
+        - {x: -14, y: 33}
+        - {x: -16, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -10, y: 33}
+        - {x: -10, y: 17}
+        - {x: -8, y: 16}
+        - {x: 10, y: 16}
+        - {x: 10, y: 35}
+      - - {x: 14, y: 35}
+        - {x: 14, y: 16}
+        - {x: 33, y: 16}
+        - {x: 33, y: 34}
+        - {x: 32, y: 35}
+    - name: White-menuList
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 667
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -12}
+        - {x: -33, y: -14}
+        - {x: -33, y: -30}
+        - {x: -32, y: -31}
+        - {x: -16, y: -31}
+        - {x: -14, y: -29}
+        - {x: -14, y: -15}
+        - {x: -17, y: -12}
+      - - {x: -10, y: -12}
+        - {x: -10, y: -29}
+        - {x: -8, y: -31}
+        - {x: 32, y: -31}
+        - {x: 33, y: -30}
+        - {x: 33, y: -12}
+      - - {x: -17, y: 12}
+        - {x: -33, y: 12}
+        - {x: -33, y: -6}
+        - {x: -31, y: -8}
+        - {x: -17, y: -8}
+        - {x: -14, y: -5}
+        - {x: -14, y: 11}
+      - - {x: -7, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -5}
+        - {x: -7, y: -8}
+        - {x: 31, y: -8}
+        - {x: 33, y: -6}
+        - {x: 33, y: 10}
+        - {x: 31, y: 12}
+      - - {x: -32, y: 35}
+        - {x: -33, y: 34}
+        - {x: -33, y: 16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 19}
+        - {x: -14, y: 33}
+        - {x: -16, y: 35}
+      - - {x: -9, y: 35}
+        - {x: -10, y: 34}
+        - {x: -10, y: 16}
+        - {x: 33, y: 16}
+        - {x: 33, y: 34}
+        - {x: 32, y: 35}
+    - name: White-minus
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 587
+        width: 66
+        height: 18
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: White-mouse
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 716
+        width: 58
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 33}
+        - {x: -27, y: 31}
+        - {x: -27, y: -27}
+        - {x: -16, y: -39}
+        - {x: 19, y: -39}
+        - {x: 31, y: -35}
+        - {x: 31, y: 33}
+      - - {x: -3, y: 22}
+        - {x: -6, y: 20}
+        - {x: -6, y: -8}
+        - {x: -4, y: -10}
+        - {x: 5, y: -10}
+        - {x: 10, y: -9}
+        - {x: 10, y: 22}
+    - name: White-movie
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 629
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 31}
+        - {x: -33, y: 30}
+        - {x: -33, y: -34}
+        - {x: -32, y: -35}
+        - {x: 32, y: -35}
+        - {x: 33, y: -34}
+        - {x: 33, y: 30}
+        - {x: 32, y: 31}
+    - name: White-multiplayer
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1029
+        width: 72
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4861111, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 23}
+        - {x: -35, y: 13}
+        - {x: -35, y: -25}
+        - {x: -34, y: -27}
+        - {x: 32, y: -27}
+        - {x: 37, y: -21}
+        - {x: 37, y: -4}
+        - {x: 28, y: 23}
+    - name: White-musicOff
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 309
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 29}
+        - {x: -29, y: 29}
+        - {x: -29, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: -5}
+        - {x: 29, y: 27}
+    - name: White-musicOn
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 315
+        width: 57
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 29}
+        - {x: -29, y: -1}
+        - {x: -29, y: -35}
+        - {x: 9, y: -35}
+        - {x: 28, y: -28}
+        - {x: 28, y: 29}
+    - name: White-next
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 459
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 31}
+        - {x: 10, y: 29}
+        - {x: -8, y: 31}
+        - {x: -28, y: 31}
+        - {x: -29, y: 30}
+        - {x: -29, y: -35}
+        - {x: 29, y: -35}
+        - {x: 29, y: 30}
+        - {x: 28, y: 31}
+    - name: White-open
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 581
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -31, y: 13}
+        - {x: -31, y: -35}
+        - {x: 4, y: -35}
+        - {x: 35, y: -4}
+        - {x: 35, y: 0}
+        - {x: 4, y: 31}
+    - name: White-pause
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 98
+        width: 58
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47761193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 35}
+        - {x: -29, y: 33}
+        - {x: -29, y: -30}
+        - {x: -27, y: -32}
+        - {x: -5, y: -32}
+        - {x: -2, y: -29}
+        - {x: -2, y: 33}
+        - {x: -4, y: 35}
+      - - {x: 2, y: 35}
+        - {x: 2, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: 35}
+    - name: White-phone
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 48
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 35}
+        - {x: -25, y: -36}
+        - {x: 23, y: -36}
+        - {x: 23, y: 35}
+    - name: White-plus
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 535
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 6}
+        - {x: -31, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 17}
+        - {x: 27, y: 31}
+        - {x: -6, y: 31}
+    - name: White-power
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1030
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.55714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 24}
+        - {x: 11, y: 16}
+        - {x: -8, y: 24}
+        - {x: -20, y: 24}
+        - {x: -30, y: 18}
+        - {x: -33, y: 13}
+        - {x: -33, y: -26}
+        - {x: -21, y: -39}
+        - {x: 30, y: -39}
+        - {x: 37, y: -36}
+        - {x: 37, y: 21}
+        - {x: 28, y: 24}
+      - - {x: -6, y: 31}
+        - {x: -6, y: -10}
+        - {x: 10, y: -10}
+        - {x: 10, y: 31}
+    - name: White-previous
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 379
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 31}
+        - {x: -29, y: 31}
+        - {x: -29, y: -35}
+        - {x: -12, y: -35}
+        - {x: -10, y: -33}
+        - {x: 8, y: -35}
+        - {x: 29, y: -35}
+    - name: White-question
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1135
+        width: 42
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -16}
+        - {x: -10, y: -20}
+        - {x: -10, y: -37}
+        - {x: 12, y: -37}
+        - {x: 12, y: -21}
+        - {x: 7, y: -16}
+      - - {x: -17, y: 29}
+        - {x: -20, y: 28}
+        - {x: -21, y: 24}
+        - {x: -21, y: -5}
+        - {x: -14, y: -16}
+        - {x: 19, y: -16}
+        - {x: 21, y: -8}
+        - {x: 21, y: 29}
+    - name: White-return
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 521
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 25}
+        - {x: -29, y: -24}
+        - {x: -22, y: -27}
+        - {x: 3, y: -11}
+        - {x: 9, y: -5}
+        - {x: 9, y: -2}
+        - {x: 6, y: 2}
+        - {x: 15, y: -2}
+        - {x: 1, y: -15}
+        - {x: 1, y: -23}
+        - {x: 2, y: -33}
+        - {x: 32, y: -33}
+        - {x: 35, y: -32}
+        - {x: 35, y: 21}
+        - {x: 33, y: 25}
+    - name: White-rewind
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1081
+        width: 78
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 31}
+        - {x: -37, y: 6}
+        - {x: -37, y: -8}
+        - {x: -23, y: -35}
+        - {x: 41, y: -35}
+        - {x: 41, y: 31}
+    - name: White-right
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 750
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 33}
+        - {x: -21, y: 32}
+        - {x: -21, y: -33}
+        - {x: -4, y: -33}
+        - {x: 21, y: -3}
+        - {x: 21, y: 7}
+        - {x: -10, y: 33}
+    - name: White-save
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 498
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 31}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 16}
+        - {x: 18, y: 31}
+      - - {x: 4, y: 20}
+        - {x: 2, y: 18}
+        - {x: 2, y: 10}
+        - {x: 4, y: 8}
+        - {x: 12, y: 8}
+        - {x: 14, y: 10}
+        - {x: 14, y: 18}
+        - {x: 12, y: 20}
+    - name: White-scrollHorizontal
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 203
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 29}
+        - {x: -31, y: 11}
+        - {x: -31, y: -1}
+        - {x: -6, y: -26}
+        - {x: -2, y: -26}
+        - {x: 0, y: -24}
+        - {x: 0, y: 29}
+      - - {x: 1, y: 29}
+        - {x: 0, y: 28}
+        - {x: 0, y: -26}
+        - {x: 8, y: -26}
+        - {x: 31, y: -1}
+        - {x: 31, y: 5}
+        - {x: 7, y: 29}
+    - name: White-scrollVertical
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 867
+        width: 54
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 33}
+        - {x: -27, y: 17}
+        - {x: -27, y: -7}
+        - {x: -6, y: -30}
+        - {x: 3, y: -30}
+        - {x: 27, y: -11}
+        - {x: 27, y: 12}
+        - {x: 9, y: 33}
+    - name: White-share1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 936
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 27}
+        - {x: -8, y: 26}
+        - {x: -8, y: 22}
+        - {x: -27, y: 18}
+        - {x: -29, y: 16}
+        - {x: -29, y: -32}
+        - {x: -28, y: -33}
+        - {x: 25, y: -33}
+        - {x: 31, y: -25}
+        - {x: 31, y: 27}
+    - name: White-share2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 942
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 35}
+        - {x: -32, y: 28}
+        - {x: -35, y: 19}
+        - {x: -35, y: -17}
+        - {x: -2, y: -39}
+        - {x: 35, y: -39}
+        - {x: 35, y: -7}
+        - {x: 34, y: -4}
+        - {x: 35, y: -2}
+        - {x: 35, y: 35}
+    - name: White-shoppingBasket
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 254
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 0}
+        - {x: -29, y: -20}
+        - {x: -26, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 0}
+      - - {x: -11, y: 29}
+        - {x: -28, y: 12}
+        - {x: -28, y: 1}
+        - {x: -24, y: 0}
+        - {x: -11, y: 0}
+        - {x: 2, y: 13}
+        - {x: 2, y: 27}
+        - {x: 1, y: 29}
+      - - {x: 5, y: 29}
+        - {x: 2, y: 26}
+        - {x: 2, y: 18}
+        - {x: 16, y: 0}
+        - {x: 28, y: 0}
+        - {x: 32, y: 1}
+        - {x: 32, y: 12}
+        - {x: 15, y: 29}
+    - name: White-shoppingCart
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 878
+        width: 68
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -18}
+        - {x: -18, y: -21}
+        - {x: -18, y: -34}
+        - {x: -14, y: -37}
+        - {x: 1, y: -37}
+        - {x: 2, y: -35}
+        - {x: 2, y: -19}
+        - {x: -2, y: -18}
+      - - {x: 14, y: -18}
+        - {x: 10, y: -21}
+        - {x: 10, y: -32}
+        - {x: 11, y: -37}
+        - {x: 28, y: -37}
+        - {x: 30, y: -36}
+        - {x: 30, y: -22}
+        - {x: 25, y: -18}
+      - - {x: -33, y: 25}
+        - {x: -33, y: 6}
+        - {x: -25, y: -17}
+        - {x: -24, y: -18}
+        - {x: 35, y: -18}
+        - {x: 35, y: 25}
+    - name: White-shuffle
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1644
+        width: 450
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5, y: 0.460199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137, y: -1}
+        - {x: -20, y: -1}
+        - {x: -41, y: -13}
+        - {x: -41, y: -119}
+        - {x: 12, y: -142}
+        - {x: 100, y: -185}
+        - {x: 143, y: -185}
+        - {x: 225, y: -118}
+        - {x: 225, y: -90}
+        - {x: 141, y: -4}
+      - - {x: 225, y: 122}
+        - {x: 225, y: 134}
+        - {x: 144, y: 217}
+        - {x: 128, y: 217}
+        - {x: 125, y: 216}
+        - {x: -13, y: 163}
+        - {x: -125, y: -42}
+        - {x: -220, y: -61}
+        - {x: -225, y: -64}
+        - {x: -225, y: -130}
+        - {x: -104, y: -130}
+        - {x: -15, y: -104}
+        - {x: 66, y: 93}
+        - {x: 129, y: 38}
+        - {x: 141, y: 36}
+      - - {x: -225, y: 162}
+        - {x: -225, y: 90}
+        - {x: -98, y: 33}
+        - {x: -87, y: 33}
+        - {x: -55, y: 67}
+        - {x: -55, y: 126}
+        - {x: -93, y: 162}
+    - name: White-siganl1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1033
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 1.8333334, y: 1.0294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: White-signal2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 949
+        width: 42
+        height: 50
+      alignment: 9
+      pivot: {x: 0.78571427, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: -33, y: -35}
+        - {x: -15, y: -35}
+        - {x: -14, y: -33}
+        - {x: -14, y: 0}
+      - - {x: -10, y: 15}
+        - {x: -10, y: -33}
+        - {x: -8, y: -35}
+        - {x: 9, y: -35}
+        - {x: 9, y: 15}
+    - name: White-signal3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 458
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: -33, y: -35}
+        - {x: -15, y: -35}
+        - {x: -14, y: -33}
+        - {x: -14, y: 0}
+      - - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: -33}
+        - {x: -8, y: -35}
+        - {x: 10, y: -35}
+        - {x: 10, y: 16}
+      - - {x: 14, y: 31}
+        - {x: 14, y: -35}
+        - {x: 33, y: -35}
+        - {x: 33, y: 30}
+        - {x: 32, y: 31}
+    - name: White-singleplayer
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 501
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -35}
+        - {x: 24, y: -35}
+        - {x: 29, y: -33}
+        - {x: 29, y: -2}
+        - {x: 14, y: 31}
+        - {x: -14, y: 31}
+        - {x: -29, y: 1}
+    - name: White-smaller
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 878
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -8}
+        - {x: -31, y: -36}
+        - {x: -4, y: -36}
+        - {x: -4, y: -10}
+        - {x: -6, y: -8}
+      - - {x: 8, y: -8}
+        - {x: 8, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -8}
+      - - {x: -31, y: 31}
+        - {x: -31, y: 3}
+        - {x: -4, y: 3}
+        - {x: -4, y: 31}
+      - - {x: 8, y: 31}
+        - {x: 8, y: 3}
+        - {x: 35, y: 3}
+        - {x: 35, y: 31}
+    - name: White-star
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 260
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 31}
+        - {x: -7, y: 31}
+        - {x: -33, y: 9}
+        - {x: -33, y: 2}
+        - {x: -23, y: -31}
+        - {x: 23, y: -31}
+        - {x: 33, y: -4}
+        - {x: 33, y: 14}
+    - name: White-stop
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 264
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5322581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 29}
+        - {x: -31, y: 28}
+        - {x: -31, y: -32}
+        - {x: -30, y: -33}
+        - {x: 30, y: -33}
+        - {x: 31, y: -32}
+        - {x: 31, y: 28}
+        - {x: 30, y: 29}
+    - name: White-tablet
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 932
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 35}
+        - {x: -29, y: -36}
+        - {x: 27, y: -36}
+        - {x: 27, y: 35}
+    - name: White-target
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 878
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -31, y: 28}
+        - {x: -31, y: -19}
+        - {x: -17, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 32}
+      - - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -8, y: -15}
+        - {x: 12, y: -15}
+        - {x: 16, y: -11}
+        - {x: 16, y: 6}
+        - {x: 13, y: 12}
+    - name: White-trashcan
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 999
+        width: 50
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 7}
+        - {x: -25, y: -38}
+        - {x: -23, y: -40}
+        - {x: 25, y: -40}
+        - {x: 25, y: 8}
+        - {x: -24, y: 8}
+      - - {x: -22, y: 33}
+        - {x: -25, y: 31}
+        - {x: -25, y: 8}
+        - {x: 25, y: 8}
+        - {x: 25, y: 33}
+    - name: White-trashcanOpen
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 783
+        width: 53
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5283019, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 6}
+        - {x: -26, y: -37}
+        - {x: -23, y: -40}
+        - {x: 25, y: -40}
+        - {x: 25, y: 8}
+        - {x: -24, y: 8}
+      - - {x: -18, y: 40}
+        - {x: -28, y: 27}
+        - {x: -28, y: 8}
+        - {x: -3, y: 8}
+        - {x: 25, y: 19}
+        - {x: 25, y: 30}
+        - {x: 22, y: 40}
+    - name: White-trophy
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 607
+        width: 66
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 23}
+        - {x: -33, y: 20}
+        - {x: -33, y: -19}
+        - {x: -26, y: -35}
+        - {x: 25, y: -35}
+        - {x: 26, y: -34}
+        - {x: 33, y: -25}
+        - {x: 33, y: 23}
+    - name: White-unlocked
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 799
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.525641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 37}
+        - {x: -31, y: 17}
+        - {x: -31, y: -41}
+        - {x: 35, y: -41}
+        - {x: 35, y: 37}
+    - name: White-up
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 585
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -33, y: -10}
+        - {x: -33, y: -20}
+        - {x: -32, y: -21}
+        - {x: 33, y: -21}
+        - {x: 33, y: -4}
+        - {x: 3, y: 21}
+    - name: White-upLeft
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 414
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -31}
+        - {x: 23, y: -31}
+        - {x: 31, y: -19}
+        - {x: 31, y: 1}
+        - {x: 20, y: 27}
+        - {x: -27, y: 27}
+        - {x: -27, y: -27}
+    - name: White-upRight
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 363
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.5344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 27}
+        - {x: -14, y: 27}
+        - {x: -17, y: 23}
+        - {x: -17, y: 18}
+        - {x: -27, y: 0}
+        - {x: -27, y: -19}
+        - {x: -20, y: -31}
+        - {x: -6, y: -31}
+        - {x: 6, y: -21}
+        - {x: 26, y: -22}
+        - {x: 31, y: -18}
+    - name: White-video
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 734
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.4861111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 37}
+        - {x: 11, y: 37}
+        - {x: -33, y: 27}
+        - {x: -35, y: 24}
+        - {x: -35, y: -35}
+        - {x: 31, y: -35}
+        - {x: 31, y: 26}
+        - {x: 30, y: 32}
+    - name: White-warning
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 879
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 29}
+        - {x: -9, y: 28}
+        - {x: -33, y: -15}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -15}
+        - {x: 8, y: 29}
+    - name: White-wrench
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 394
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 31}
+        - {x: -31, y: 30}
+        - {x: -31, y: -7}
+        - {x: -8, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -5}
+        - {x: 8, y: 31}
+    - name: White-zoom
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 809
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -24}
+        - {x: -7, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -6}
+        - {x: 20, y: 31}
+        - {x: -31, y: 31}
+    - name: White-zoomDefault
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 809
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -24}
+        - {x: -7, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -6}
+        - {x: 20, y: 31}
+        - {x: -31, y: 31}
+      - - {x: -15, y: 14}
+        - {x: -16, y: 12}
+        - {x: -16, y: -3}
+        - {x: -14, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: 14}
+    - name: White-zoomIn
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 871
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -24}
+        - {x: -7, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -6}
+        - {x: 20, y: 31}
+        - {x: -31, y: 31}
+      - - {x: -16, y: -5}
+        - {x: 2, y: -5}
+        - {x: 4, y: -4}
+        - {x: 4, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 10}
+    - name: White-zoomOut
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 871
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -24}
+        - {x: -7, y: -36}
+        - {x: 35, y: -36}
+        - {x: 35, y: -6}
+        - {x: 20, y: 31}
+        - {x: -31, y: 31}
+      - - {x: -14, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: 1}
+        - {x: -14, y: -1}
+        - {x: 2, y: -1}
+        - {x: 4, y: 1}
+        - {x: 4, y: 10}
+        - {x: 2, y: 12}
+    - name: blue_boxCheckmark
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 740
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: blue_boxCross
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 702
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: blue_boxTick
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1382
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: blue_button00
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1593
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: blue_button01
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1342
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: blue_button02
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1593
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: blue_button03
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1342
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: blue_button04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1542
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: blue_button05
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1295
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: blue_button06
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 269
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: blue_button07
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 400
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: blue_button08
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 273
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: blue_button09
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 363
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: blue_button10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 316
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: blue_button11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 396
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: blue_button12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 302
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: blue_button13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1542
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: blue_checkmark
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1622
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blue_circle
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1344
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: blue_cross
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1013
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blue_panel
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1946
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: blue_sliderDown
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1596
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blue_sliderLeft
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1501
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blue_sliderRight
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1468
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blue_sliderUp
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1552
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blue_tick
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 954
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dropdownBottom
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1175
+        width: 190
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dropdownMid
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1149
+        width: 190
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dropdownTop
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1171
+        width: 190
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: green_boxCheckmark
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 489
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: green_boxCross
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 451
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: green_boxTick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: green_button00
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1542
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: green_button01
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1295
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: green_button02
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1542
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: green_button03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1291
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: green_button04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1491
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: green_button05
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1291
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: green_button06
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 349
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: green_button07
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 345
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: green_button08
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 269
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: green_button09
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: green_button10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: green_button11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 131
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: green_button12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: green_button13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1491
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: green_checkmark
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1600
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: green_circle
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1078
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: green_cross
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 993
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: green_panel
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1844
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: green_sliderDown
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1508
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: green_sliderLeft
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1311
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: green_sliderRight
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1278
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: green_sliderUp
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1464
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: green_tick
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 935
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_arrowDownGrey
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1006
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_arrowDownWhite
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 994
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_arrowUpGrey
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 982
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_arrowUpWhite
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 970
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_box
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 664
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: grey_boxCheckmark
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 413
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: grey_boxCross
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 375
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: grey_boxTick
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 474
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: grey_button00
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1248
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: grey_button01
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1491
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: grey_button02
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1248
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: grey_button03
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1491
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: grey_button04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1244
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: grey_button05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1593
+        width: 195
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.5, y: 24.5}
+        - {x: -97.5, y: 23.5}
+        - {x: -97.5, y: -23.5}
+        - {x: -96.5, y: -24.5}
+        - {x: 95.5, y: -24.5}
+        - {x: 97.5, y: -22.5}
+        - {x: 97.5, y: 22.5}
+        - {x: 95.5, y: 24.5}
+    - name: grey_button06
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1593
+        width: 191
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.5, y: 24.5}
+        - {x: -95.5, y: 23.5}
+        - {x: -95.5, y: -23.5}
+        - {x: -94.5, y: -24.5}
+        - {x: 93.5, y: -24.5}
+        - {x: 95.5, y: -22.5}
+        - {x: 95.5, y: 22.5}
+        - {x: 93.5, y: 24.5}
+    - name: grey_button07
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 201
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: grey_button08
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: grey_button09
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: grey_button10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 131
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: grey_button11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 205
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: grey_button12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 201
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: grey_button13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 51
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: grey_button14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1440
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: grey_button15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1440
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: grey_checkmarkGrey
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1578
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_checkmarkWhite
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1556
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_circle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: grey_crossGrey
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1021
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_crossWhite
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1082
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_panel
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1742
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: grey_sliderDown
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1420
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_sliderEnd
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2036
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_sliderHorizontal
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1191
+        width: 190
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_sliderLeft
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 916
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_sliderRight
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 665
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_sliderUp
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1127
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_sliderVertical
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1946
+        width: 4
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_tickGrey
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 923
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grey_tickWhite
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 904
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: red_boxCheckmark
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 626
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: red_boxCross
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 588
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: red_boxTick
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: red_button00
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1244
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: red_button01
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1440
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: red_button02
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1201
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: red_button03
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 264
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: red_button04
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 47
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: red_button05
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 4
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: red_button06
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 131
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: red_button07
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 135
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: red_button08
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: red_button09
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 205
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: red_button10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1440
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 12, z: 64, w: 12}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: red_button11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1389
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: red_button12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1201
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: red_button13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1389
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: red_checkmark
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1534
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: red_circle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 530
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: red_cross
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1001
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: red_panel
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1640
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: red_sliderDown
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1083
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: red_sliderLeft
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 883
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: red_sliderRight
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 850
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: red_sliderUp
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1039
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: red_tick
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 885
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yellow_boxCheckmark
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 550
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: yellow_boxCross
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 512
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: yellow_boxTick
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 530
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: yellow_button00
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1389
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: yellow_button01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1197
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: yellow_button02
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1389
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: yellow_button03
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1197
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: yellow_button04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1338
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: yellow_button05
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1154
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 22.5}
+        - {x: -95, y: -22.5}
+        - {x: 95, y: -22.5}
+        - {x: 95, y: 22.5}
+    - name: yellow_button06
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 264
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: yellow_button07
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 47
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: yellow_button08
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 255
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: yellow_button09
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 131
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: yellow_button10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 51
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: yellow_button11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 201
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 24.5}
+    - name: yellow_button12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 4
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 22.5}
+    - name: yellow_button13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1338
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 24.5}
+        - {x: -95, y: -24.5}
+        - {x: 95, y: -24.5}
+        - {x: 95, y: 24.5}
+    - name: yellow_checkmark
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1169
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yellow_circle
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 531
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -15, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+        - {x: 16, y: 18}
+    - name: yellow_cross
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 973
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yellow_panel
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1542
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: yellow_sliderDown
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 995
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yellow_sliderLeft
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 632
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yellow_sliderRight
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 599
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yellow_sliderUp
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1105
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yellow_tick
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 866
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
